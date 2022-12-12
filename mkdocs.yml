@@ -1,3 +1,6 @@
-site_name: My Docs
+site_name: KNOWRON Documentation
 theme:
   name: material
+  palette:
+    primary: deep orange
+    accent: deep purple

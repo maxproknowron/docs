@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Welcome to KNOWRON
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hello! My name is Arturo, I am the Co-Founder and CPO of [**KNOWRON**](https://www.knowron.com/). 
 
-## Commands
+We make organizational knowledge easily accessible for everyone.
+<p align="center"><img src="https://uploads-ssl.webflow.com/5fb7dee20da971151ba8dd09/5fc63de6ce2996845e34e182_arturo.png" width="200"></p>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The **KNOWRON Assistant** is a new system powered by Natural Language Processing that gives you access to the information about your plant or machine faster than ever before.
 
-## Project layout
+The pages below will give you an overview of the capabilities of the system. This page will be periodically updated, particularly when new features are added.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Our goals with this application are:
+
+- Make you more efficient, on and off-site.
+- Take away the tedious information lookup that is common in service organizations.
+- Empower clients to ask questions to the system instead of saturating the support hotline.
+- Free your time for the work that matters most!
+
+You can always reach me under <arturo@knowron.com> if you want to know more or need any support. Talk to you soon!
