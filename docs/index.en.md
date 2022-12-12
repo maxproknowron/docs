@@ -5,6 +5,12 @@ Hello! My name is Arturo, I am the Co-Founder and CPO of [**KNOWRON**](https://w
 We make organizational knowledge easily accessible for everyone.
 <p align="center"><img src="https://uploads-ssl.webflow.com/5fb7dee20da971151ba8dd09/5fc63de6ce2996845e34e182_arturo.png" width="200"></p>
 
+!!! note
+
+    Our documentation is also available in German!
+
+    [Dokumentation auf Deutsch 🇩🇪](/de){ .md-button .md-button--primary }
+
 The **KNOWRON Assistant** is a new system powered by Natural Language Processing that gives you access to the information about your plant or machine faster than ever before.
 
 The pages below will give you an overview of the capabilities of the system. This page will be periodically updated, particularly when new features are added.

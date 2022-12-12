@@ -1,6 +1,29 @@
-site_name: KNOWRON Documentation
+site_name: KNOWRON Docs
 theme:
   name: material
+  language: en
   palette:
     primary: deep orange
-    accent: deep purple
+    accent: indigo
+  logo: logo.png
+  favicon: icon.png
+  extra:
+    alternate:
+      - name: English
+        link: /en/
+        lang: en
+      - name: Deutsch
+        link: /de/
+        lang: de
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      languages:
+        en: English
+        de: Deutsch
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
