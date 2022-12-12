@@ -9,7 +9,7 @@ Wir machen organisatorisches Wissen für jeden leicht zugänglich.
 
     Unsere Dokumentation ist auch auf Englisch verfügbar!
 
-    [English documentation 🇬🇧](/en){ .md-button .md-button--primary }
+    [English documentation 🇬🇧](https://knowron.github.io/mkdocs-test/en){ .md-button .md-button--primary }
 
 
 Der **KNOWRON-Assistent** ist ein neues, auf natürlicher Sprachverarbeitung basierendes System, das Ihnen schneller als je zuvor Zugang zu den Informationen über Ihre Anlage oder Maschine verschafft.
