@@ -1,11 +1,11 @@
 # Product Access Groups
 
-!!! info This is an experimental feature
+!!! info "This feature is not enabled by default"
     If you want to try out product access groups for your organization, please reach out to <arturo@knowron.com>
 
 Service organizations often have different teams which need to access different types of documents. Service sales will need price lists and product brochures, technicians on the field will need service manuals and technical bulletins, commisioning teams will need assembly instructions, etc.
 
-**Simply put, users will only be able to see product lines (and their corresponsing documents and content units) that are assigned to the product access group they belong to.**
+Simply put, **users will only be able to see product lines (and their corresponsing documents and content units) that are assigned to the product access group they belong to.**
 
 ![Status Quo](https://i.imgur.com/VnLylKq.png)
 
