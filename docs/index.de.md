@@ -9,7 +9,7 @@ Wir machen organisatorisches Wissen für jeden leicht zugänglich.
 
     Unsere Dokumentation ist auch auf Englisch verfügbar!
     <p align="center">
-    [English documentation 🇬🇧](https://knowron.github.io/mkdocs-test/en){ .md-button .md-button--primary }
+    [English documentation 🇬🇧](https://docs.knowron.com/en){ .md-button .md-button--primary }
     </p>
     
 

@@ -10,7 +10,7 @@ We make organizational knowledge easily accessible for everyone.
     Our documentation is also available in German!
 
     <p align="center">
-    [Dokumentation auf Deutsch 🇩🇪](https://knowron.github.io/mkdocs-test/de){ .md-button .md-button--primary }
+    [Dokumentation auf Deutsch 🇩🇪](https://docs.knowron.com/de){ .md-button .md-button--primary }
     </p>
 
 The **KNOWRON Assistant** is a new system powered by Natural Language Processing that gives you access to the information about your plant or machine faster than ever before.

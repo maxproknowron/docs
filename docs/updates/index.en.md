@@ -1,0 +1,14 @@
+# Updates index
+
+Hello! In this page, we try to keep you up-to-date for all the features and changes released in both the KNOWRON Assistant and the Control Suite.
+
+Visit the child pages to learn more!
+
+## 2023
+
+- [Update for late January](2023/late_jan_update.md)
+
+## 2022
+
+- [Update for late December](2022/2022-late-dec-update.md)
+- [Update for early December](2022/_dec_updated.md)

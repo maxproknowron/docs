@@ -15,6 +15,9 @@ theme:
       - name: Deutsch
         link: /de/
         lang: de
+  features:
+    - navigation.indexes
+    - navigation.sections
 plugins:
   - search
   - i18n:
