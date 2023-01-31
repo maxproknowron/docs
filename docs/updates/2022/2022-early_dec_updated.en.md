@@ -10,7 +10,17 @@ Here's an overview:
 ### v1.1.5 - Users can now read documents and images more easily
 - **New**: You can now read documents in landscape mode. This will give you more space to zoom in and look at small text or hard-to-read diagrams.
 
+<figure markdown>
+  ![Landscape mode on .pdfs](https://mcusercontent.com/798b65fe808f1a67db54e6d18/images/25f81f61-d112-c3b2-f5f3-d08e87558c2f.gif){ width="100%", align="center" }
+  <figcaption>Landscape mode on .pdfs</figcaption>
+</figure>
+
 - **New**: You can now zoom into images inside tutorials! Simply tap on them to get a closer look.
+
+<figure markdown>
+  ![Zoom into images](https://mcusercontent.com/798b65fe808f1a67db54e6d18/images/c8a6f8a0-430e-200b-c5bc-b40fe3d95a4d.gif){ width="100%", align="center" }
+  <figcaption>Zoom into images</figcaption>
+</figure>
 
 - **Improvement**: If editors do not specify a specific page to redirect to when creating a document redirection on troubleshooting, the first page of the document is shown.
 

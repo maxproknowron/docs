@@ -1,6 +1,6 @@
 # Anfang Dezember Produkt-Update
 
-Hallo zusammen! Wir haben hier bei KNOWRON an einer Reihe von Features und Verbesserungen gearbeitet, von denen wir glauben, dass sie Ihr Leben und das Ihrer Kollegen einfacher machen werden!
+Hallo zusammen! Hier bei KNOWRON haben wir an einer Reihe von Funktionen und Verbesserungen gearbeitet, von denen wir glauben, dass sie Ihr Leben und das Ihrer Kollegen einfacher machen werden!
 
 Hier ist ein Überblick: 
 
@@ -8,17 +8,27 @@ Hier ist ein Überblick:
 > Wie immer können Sie den KNOWRON Assistant im [Apple App Store](https://apps.apple.com/at/app/knowron-assistant/id1585382448 "KNOWRON Assistant im App Store") oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron "KNOWRON Assistant bei Google Play") herunterladen.
 
 ### v1.1.5 - Benutzer können jetzt Dokumente und Bilder einfacher lesen
-- **Neu**: Sie können Dokumente jetzt auch im Querformat lesen. Dadurch haben Sie mehr Platz, um zu zoomen und kleine Texte oder schwer lesbare Diagramme zu betrachten.
+- **Neu**: Sie können Dokumente jetzt im Querformat lesen. Dadurch haben Sie mehr Platz zum Heranzoomen und Betrachten von kleinem Text oder schwer lesbaren Diagrammen.
 
-- **Neu**: Sie können jetzt in Bilder in Tutorials hineinzoomen! Tippen Sie einfach darauf, um sie näher zu betrachten.
+<Figure markdown>
+  ![Landscape mode on .pdfs](https://mcusercontent.com/798b65fe808f1a67db54e6d18/images/25f81f61-d112-c3b2-f5f3-d08e87558c2f.gif){ width="100%", align="center" }
+  <figcaption>Landschaftsmodus bei .pdfs</figcaption>
+</figure>
 
-- **Verbesserung**: Wenn Redakteure bei der Erstellung einer Dokumentumleitung zur Fehlerbehebung keine bestimmte Seite angeben, zu der umgeleitet werden soll, wird die erste Seite des Dokuments angezeigt.
+- **Neu**: Sie können jetzt in Bilder innerhalb von Tutorials hineinzoomen! Tippen Sie einfach darauf, um sie näher zu betrachten.
+
+<figure markdown>
+  ![Zoom into images](https://mcusercontent.com/798b65fe808f1a67db54e6d18/images/c8a6f8a0-430e-200b-c5bc-b40fe3d95a4d.gif){ width="100%", align="center" }
+  <figcaption>Zoomen in Bilder</figcaption>
+</figure>
+
+- **Verbesserung**: Wenn Redakteure bei der Erstellung einer Dokumentenumleitung zur Fehlerbehebung keine bestimmte Seite angeben, zu der umgeleitet werden soll, wird die erste Seite des Dokuments angezeigt.
 
 - **Verbesserung**: Wenn es nur eine Produktlinie zur Auswahl gibt, wird diese standardmäßig ausgewählt.
 
 ### v1.1.4 - Externe Benutzer können jetzt auf das KNOWRON System zugreifen
 
-- **Neu**: Admins können nun externen Nutzern Zugriff auf ihre Dokumentation und ihr Wissen geben, während sie gleichzeitig entscheiden können, was innerhalb der Organisation verwaltet werden soll! Kontaktieren Sie KNOWRON für weitere Details.
+- **Neu**: Administratoren können nun externen Benutzern Zugang zu ihrer Dokumentation und ihrem Wissen gewähren, während sie gleichzeitig entscheiden können, was innerhalb der Organisation verwaltet werden soll! Kontaktieren Sie KNOWRON für weitere Details.
 
 - **Verbesserung**: Der Bildschirm Dokumente filtert jetzt nach Dokumententiteln und paginiert das Ergebnis.
 
