@@ -34,3 +34,4 @@ A verified result, indicates that this particular answer to the search query you
 Results of a search query are marked with tags indicating the original language of the content, as well as from where was the answer extracted: **documents**, **tutorials** or **articles**. 
 
 ![Results](https://i.imgur.com/TnQ7hE3.png)
+!
