@@ -2,4 +2,4 @@
 
 Our roadmap is here to inform you about upcoming features: 
 
-<iframe src="https://trello.com/c/OKVduwHL.html" frameBorder="0" width="100%" height="1000"></iframe>
+<script src="https://trello.com/b/UjCoUgke.js"></script>
