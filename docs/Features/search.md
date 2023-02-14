@@ -1,6 +1,6 @@
 # Search
 
-The search function allows you to either search for a question or a specific query about the machine in the documents that have been uploaded in [**Documents**](documents_page.md).
+The search function allows you to either search for a question or a specific query about the machine in the documents that have been uploaded in [**Documents**](documents.md).
 
 ![Search Bar](https://i.imgur.com/2LytyUp.png)
 
