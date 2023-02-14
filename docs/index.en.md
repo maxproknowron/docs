@@ -1,4 +1,9 @@
 # Welcome to KNOWRON
+!!! warning "🚧 This page is under construction 🚧"
+
+    Hello! Our documentation is still under construction so please bear with us through this awkward stage. 
+    
+    You can report any inaccuracies [directly to me](mailto:arturo@knowron.com).
 
 Hello! My name is Arturo, I am the Co-Founder and CPO of [**KNOWRON**](https://www.knowron.com/). 
 

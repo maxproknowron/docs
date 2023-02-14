@@ -1,5 +1,11 @@
 # Willkommen bei KNOWRON
 
+!!! warning "🚧 Diese Seite wird gerade überarbeitet 🚧"
+
+    Hallo! Unsere Dokumentation befindet sich noch im Aufbau, daher bitten wir Sie, diese schwierige Phase zu überstehen. 
+    
+    Sie können alle Ungenauigkeiten [direkt an mich melden](mailto:arturo@knowron.com).
+
 Hallo! Mein Name ist Arturo, ich bin der Mitbegründer und CPO von [**KNOWRON**](https://www.knowron.com/). 
 
 Wir machen organisatorisches Wissen für jeden leicht zugänglich.
