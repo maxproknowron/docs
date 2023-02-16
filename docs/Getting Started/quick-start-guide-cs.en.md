@@ -46,7 +46,7 @@ Before you continue, you have to select what product line you are interested in.
 
 ### Step 3. Go to the search screen
 
-You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question. To access the **Search screen**, simply select "Search" on the menu to the right of the screen (see below).
+You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question. To access the **Search screen**, simply select "Search" on the menu to the left of the screen (see below).
 
 <p align="center"><img src="https://i.imgur.com/Rtijifl.gif" width="100%"></p>
 
@@ -95,7 +95,7 @@ If you found a result that helped you, you can give it a thumbs-up (see below).
 
 A thumbs-up takes less than a second and it lets your colleagues know that this will be helpful to them too if they face a similar question. KNOWRON's algorithm will also take it into account: more thumbs-up reactions mean that this result will appear higher in search results in the future.
 
-#### Report any missing data for your colleagues to close the gap
+#### Report any missing data for your colleagues to close the knowledge gap
 
 Sometimes, KNOWRON will not find a suitable answer - or the answer might be slightly off. This can happen particularly due to a very broad query or missing data.
 
