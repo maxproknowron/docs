@@ -34,11 +34,15 @@ You're an expert in your field, but a little help is always good. Follow step-by
 
 In the event you don't find anything that will help you do your job, your colleagues in technical documentation or first level support should find out so that it doesn't happen again. KNOWRON will let them know.
 
+---
+
 ## Using the KNOWRON Control Suite
 The KNOWRON Control Suite is accessible under [suite.knowron.com](https://suite.knowron.com). 
 
+[Visit the Control Suite](https://suite.knowron.com){ .md-button }
 
-### Logging into KNOWRON Control Suite
+
+### 1. Logging into KNOWRON Control Suite
 
 You only need your email and your KNOWRON password to log onto the system. Your **email** is normally your work email and your password. You can find your **password** in the email you received inviting you to join your organization on KNOWRON (see below).
 
@@ -48,7 +52,9 @@ You only need your email and your KNOWRON password to log onto the system. Your 
 
 **If you have not received an email inviting you to KNOWRON**, please contact your colleagues who are working with it or [request access here](mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0AI am unable to access the system. Please provide support.%0D%0A%0D%0AThank you!). 
 
-### Selecting what knowledge base to access in the KNOWRON Control Suite
+---
+
+### 2. Selecting what knowledge base to access in the KNOWRON Control Suite
 
 Once logged in, you will see an overview of the product lines that your colleagues have created.
 
@@ -60,7 +66,9 @@ Before you continue, you have to select what product line you are interested in.
 
 <p align="center"><img src="https://i.imgur.com/TfkKWZ3.gif" width="100%"></p>
 
-### Ask a question in the KNOWRON Control Suite
+---
+
+### 3. Ask a question in the KNOWRON Control Suite
 
 You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question. To access the **Search screen**, simply select "Search" on the menu to the right of the screen (see below).
 
@@ -90,7 +98,9 @@ Below is a sample search interaction for the question `In what humidity can the 
 <p align="center"><img src="https://imgur.com/a1M9jUN.gif
 " width="70%"></p>
 
-### Giving feedback in the KNOWRON Control Suite
+---
+
+### 4. Giving feedback in the KNOWRON Control Suite
 
 KNOWRON can only get better if you give feedback! Feedback will be taken into account for the search algorithm and will even help your colleagues create better content for everyone in your organization.
 
