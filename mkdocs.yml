@@ -18,6 +18,7 @@ theme:
   features:
     - navigation.indexes
     - navigation.sections
+    - toc.follow
 plugins:
   - search
   - i18n:
@@ -31,3 +32,6 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - toc:
+      permalink: ⚓︎
+      permalink_title: Permalink
