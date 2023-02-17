@@ -10,8 +10,10 @@ This page will guide you through all you need to know to start using the **KNOWR
 
 The KNOWRON assistant is available for both Android and Apple devices in their respective app stores. They are free of charge to download. Simply click on the links below or scan them with your phone. 
 
-< MAGES GO HERE >
-[Visit the Control Suite](https://suite.knowron.com){ .md-button }
+| <p align="center">Google Play Store</p>      | <p align="center">Apple App Store</p>                       |
+| ----------- | ------------------------------------ |
+|    <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Download](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron){ .md-button }</p>    | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Download](https://apps.apple.com/en-us/app/knowron-assistant/id1585382448){ .md-button }</p>  |
+
 
 Once you've downloaded the app, simply open it.
 
@@ -20,7 +22,6 @@ Once you've downloaded the app, simply open it.
 Once you open the KNOWRON Assistant, you will see the log in screen (see below).
 
 You only need your email and your KNOWRON password to log onto the system. Your **email** is normally your work email and your password. You can find your **password** in the email you received inviting you to join your organization on KNOWRON (see below).
-
 
 ??? info "Need help finding your password or invitation email?"
 
@@ -32,10 +33,8 @@ You only need your email and your KNOWRON password to log onto the system. Your 
 
 After you have your email and password, simply type them in and log in!
 
-> Let's make this a gif.
-
 <p align="center">
-    <img src="https://i.imgur.com/h3OoieE.png" width="70%">
+    <img src="https://i.imgur.com/FPz6Zsw.gif" width="400">
 </p>
 
 Note you how you can request access if you have not yet received access to the application by your organization.
@@ -57,7 +56,7 @@ You will be in the products screen now. Simply select one from the list below, f
 
 You can follow the instructions illustrated below.
 
-<p align="center"><img src="https://i.imgur.com/TfkKWZ3.gif" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/FNQueGy.png" width="100%"></p>
 
 If you have a serial number or a machine QR code, things are easier. See below.
 
@@ -67,7 +66,7 @@ If you have a serial number or a machine QR code, things are easier. See below.
 
     First, tap on the scan image. Next, you can type the serial number on the field provided. Alternatively, you can scan a KNOWRON QR code directly. Simply tap on the camera icon to enable the camera and point it right at the QR code. The app should identify your machine quickly.
 
-    <p align="center"><img src="https://i.imgur.com/gXh9xJt.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
+    <p align="center"><img src="https://i.imgur.com/pocHR5l.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
 
 ---
 
@@ -81,8 +80,8 @@ Now all you have to do is ask what you want to know. KNOWRON will then go throug
 
 The results are illustrated below.
 
-<p align="center"><img src="https://imgur.com/a1M9jUN.gif
-" width="70%"></p>
+<p align="center"><img src="https://i.imgur.com/1G2skdh.gif
+" width="300"></p>
 
 
 
@@ -91,6 +90,9 @@ The results are illustrated below.
 ### Step 5. Use the Search Screen
 
 Whenever we can, we will show you answers straight from your documentation. If you want to delve deeper, you can use filters and other features, available on the **Search Screen**. Tap on "See more Results" on the Assistant Panel or select the "Search" icon from the homescreen.
+
+<p align="center"><img src="https://i.imgur.com/X4GKmM7.gif
+" width="300"></p>
 
 We can show you results from the following resources:
 
@@ -120,7 +122,7 @@ You can give feedback in one of two ways:
 
 If you found a result that helped you, you can give it a thumbs-up (see below).
 
-<p align="center"><img src="https://imgur.com/t2tkFxe.gif
+<p align="center"><img src="https://i.imgur.com/puislfv.gif
 " width="70%"></p>
 
 A thumbs-up takes less than a second and it lets your colleagues know that this will be helpful to them too if they face a similar question. KNOWRON's algorithm will also take it into account: more thumbs-up reactions mean that this result will appear higher in search results in the future.
@@ -131,7 +133,7 @@ Sometimes, KNOWRON will not find a suitable answer - or the answer might be slig
 
 If you find that the search results are not helping you in the way that you need, you can click on `Results not helpful` at the top of the search results and give us details on what you were expecting (see below).
 
-<p align="center"><img src="https://i.imgur.com/i44sdhx.gif
+<p align="center"><img src="https://i.imgur.com/9rXj4j9.gif
 " width="70%"></p>
 
 Your colleagues with an editor role, mostly from first-level support or hotline duty will act on your feedback and make sure that the information you need is available to you and your colleagues.
