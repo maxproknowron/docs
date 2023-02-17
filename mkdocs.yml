@@ -21,6 +21,7 @@ theme:
     - toc.follow
 plugins:
   - search
+  - glightbox
   - i18n:
       default_language: en
       languages:
