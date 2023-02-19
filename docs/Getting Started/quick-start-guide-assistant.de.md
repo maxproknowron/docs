@@ -55,7 +55,7 @@ Sie befinden sich nun auf dem Bildschirm "Produkte". Wählen Sie einfach eines a
 
 Sie können die untenstehenden Anweisungen befolgen.
 
-<p align="center"><img src="https://i.imgur.com/FNQueGy.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/Ozm0iJz.png" width="100%"></p>
 
 Wenn Sie eine Seriennummer oder einen Maschinen-QR-Code haben, ist es einfacher. Siehe unten.
 
@@ -65,7 +65,7 @@ Wenn Sie eine Seriennummer oder einen Maschinen-QR-Code haben, ist es einfacher.
 
     Tippen Sie zunächst auf das Scan-Bild. Anschließend können Sie die Seriennummer in das dafür vorgesehene Feld eingeben. Alternativ können Sie auch direkt einen KNOWRON QR-Code scannen. Tippen Sie einfach auf das Kamerasymbol, um die Kamera zu aktivieren und richten Sie sie direkt auf den QR-Code. Die App sollte Ihr Gerät schnell identifizieren.
 
-    <p align="center"><img src="https://i.imgur.com/pocHR5l.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
+    <p align="center"><img src="https://i.imgur.com/viecoHm.png" width="100%"><figcaption>Scanning a QR code.</figcaption></p>
 
 ---
 
