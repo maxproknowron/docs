@@ -21,7 +21,7 @@ Once you've downloaded the app, simply open it.
 
 Once you open the KNOWRON Assistant, you will see the log in screen (see below).
 
-You only need your email and your KNOWRON password to log onto the system. Your **email** is normally your work email and your password. You can find your **password** in the email you received inviting you to join your organization on KNOWRON (see below).
+You only need your email and your KNOWRON password to log onto the system. Your **email** is normally your work email. You can find your **password** in the email you received inviting you to join your organization on KNOWRON (see below).
 
 ??? info "Need help finding your password or invitation email?"
 

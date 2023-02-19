@@ -13,7 +13,7 @@ Die KNOWRON Control Suite ist unter [suite.knowron.com](https://suite.knowron.co
 
 [Control Suite besuchen](https://suite.knowron.com){ .md-button }
 
-Sie brauchen nur Ihre E-Mail und Ihr KNOWRON-Passwort, um sich in das System einzuloggen. Ihre **E-Mail** ist normalerweise Ihre Arbeits-E-Mail und Ihr Passwort. Ihr **Passwort** finden Sie in der E-Mail, die Sie erhalten haben, um Ihrer Organisation auf KNOWRON beizutreten (siehe unten).
+Sie brauchen nur Ihre E-Mail und Ihr KNOWRON-Passwort, um sich in das System einzuloggen. Ihre **E-Mail** ist normalerweise Ihre Arbeits-E-Mail. Ihr **Passwort** finden Sie in der E-Mail, die Sie erhalten haben, um Ihrer Organisation auf KNOWRON beizutreten (siehe unten).
 
 ??? info "Finden Sie Ihr Passwort oder Ihre E-Mail nicht?"
 
