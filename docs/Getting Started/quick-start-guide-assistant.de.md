@@ -69,7 +69,7 @@ Wenn Sie eine Seriennummer oder einen Maschinen-QR-Code haben, ist es einfacher.
 
 ---
 
-### Schritt 4. Eine Frage stellen
+## Schritt 4. Eine Frage stellen
 
 Sie haben nun Zugriff auf die gesamte Dokumentation für die von Ihnen gewählte Produktlinie. Jetzt können Sie eine Frage stellen.
 
@@ -84,7 +84,7 @@ Die Ergebnisse sind unten dargestellt.
 
 ---
 
-### Step 5. Suchseite aufrufen
+## Schritt 5. Suchseite aufrufen
 
 Wenn möglich, zeigen wir Ihnen Antworten direkt aus Ihrer Dokumentation. Wenn Sie tiefer eintauchen möchten, können Sie Filter und andere Funktionen verwenden, die auf der **Suchseite** verfügbar sind. Tippen Sie auf "Mehr Ergebnisse sehen" im Assistenten-Panel oder wählen Sie das Symbol "Suchen" auf dem Startbildschirm.
 
@@ -109,13 +109,13 @@ In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und v
 
 ---
 
-### Step 6. Feedback geben
+## Schritt 6. Feedback geben
 
 KNOWRON kann nur besser werden, wenn Sie uns Feedback geben! Das Feedback wird für den Suchalgorithmus berücksichtigt und hilft sogar Ihren Kollegen, bessere Inhalte für alle in Ihrer Organisation zu erstellen.
 
 Sie können Ihr Feedback auf zwei Arten abgeben:
 
-#### Verwenden Sie "Daumen hoch", um hilfreiche Ergebnisse zu markieren
+### Verwenden Sie "Daumen hoch", um hilfreiche Ergebnisse zu markieren
 
 Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit einem Daumen hoch bewerten (siehe unten).
 
@@ -124,7 +124,7 @@ Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit
 
 Ein "Daumen hoch" dauert weniger als eine Sekunde und lässt Ihre Kollegen wissen, dass dies auch für sie hilfreich sein wird, wenn sie eine ähnliche Frage haben. Der Algorithmus von KNOWRON wird dies ebenfalls berücksichtigen: mehr "Daumen hoch"-Reaktionen bedeuten, dass dieses Ergebnis in Zukunft weiter oben in den Suchergebnissen erscheinen wird.
 
-#### Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.
+### Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.
 
 Es kann vorkommen, dass KNOWRON keine passende Antwort findet - oder dass die Antwort leicht daneben liegt. Dies kann vor allem durch eine sehr breite Abfrage oder fehlende Daten geschehen.
 

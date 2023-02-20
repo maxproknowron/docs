@@ -44,7 +44,7 @@ Before you continue, you have to select what product line you are interested in.
 
 ---
 
-### Step 3. Go to the search screen
+## Step 3. Go to the search screen
 
 You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question. To access the **Search screen**, simply select "Search" on the menu to the left of the screen (see below).
 
@@ -53,7 +53,7 @@ You now have access to the entire documentation for the product line you have se
 ---
 
 
-### Step 4. Ask a question
+## Step 4. Ask a question
 
 Now all you have to do is ask what you want to know. Type in the search bar and press enter. KNOWRON will then go through your entire knowledge base and show you the most relevant results.
 
@@ -80,13 +80,13 @@ In the future, we will also be able to show you results from your machine's logb
 
 ---
 
-### Step 4. Give feedback
+## Step 4. Give feedback
 
 KNOWRON can only get better if you give feedback! Feedback will be taken into account for the search algorithm and will even help your colleagues create better content for everyone in your organization.
 
 You can give feedback in one of two ways:
 
-#### Use "thumbs-up" to mark results that helped you
+### Use "thumbs-up" to mark results that helped you
 
 If you found a result that helped you, you can give it a thumbs-up (see below).
 
@@ -95,7 +95,7 @@ If you found a result that helped you, you can give it a thumbs-up (see below).
 
 A thumbs-up takes less than a second and it lets your colleagues know that this will be helpful to them too if they face a similar question. KNOWRON's algorithm will also take it into account: more thumbs-up reactions mean that this result will appear higher in search results in the future.
 
-#### Report any missing data for your colleagues to close the knowledge gap
+### Report any missing data for your colleagues to close the knowledge gap
 
 Sometimes, KNOWRON will not find a suitable answer - or the answer might be slightly off. This can happen particularly due to a very broad query or missing data.
 

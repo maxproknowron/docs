@@ -43,7 +43,7 @@ Bevor Sie fortfahren, müssen Sie die Produktlinie auswählen, die für Sie rele
 
 ---
 
-### Schritt 3. Suchseite aufrufen
+## Schritt 3. Suchseite aufrufen
 
 Sie haben nun Zugriff auf die gesamte Dokumentation für die von Ihnen gewählte Produktlinie. Als nächstes müssen Sie eine Frage stellen. Um die **Suchseite** aufzurufen, wählen Sie einfach "Suchen" im Menü auf der linken Seite des Bildschirms (siehe unten).
 
@@ -52,7 +52,7 @@ Sie haben nun Zugriff auf die gesamte Dokumentation für die von Ihnen gewählte
 ---
 
 
-### Schritt 4. Eine Frage stellen
+## Schritt 4. Eine Frage stellen
 
 Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. Tippen Sie in die Suchleiste und drücken Sie die Eingabetaste. KNOWRON durchsucht dann Ihre gesamte Wissensdatenbank und zeigt Ihnen die relevantesten Ergebnisse an.
 
@@ -79,13 +79,13 @@ In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und v
 
 ---
 
-### Step 4. Feedback geben
+## Schritt 4. Feedback geben
 
 KNOWRON kann nur besser werden, wenn Sie uns Feedback geben! Das Feedback wird für den Suchalgorithmus berücksichtigt und hilft sogar Ihren Kollegen, bessere Inhalte für alle in Ihrer Organisation zu erstellen.
 
 Sie können Ihr Feedback auf zwei Arten abgeben:
 
-#### Verwenden Sie "Daumen hoch", um hilfreiche Ergebnisse zu markieren
+### Verwenden Sie "Daumen hoch", um hilfreiche Ergebnisse zu markieren
 
 Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit einem Daumen hoch bewerten (siehe unten).
 
@@ -94,7 +94,7 @@ Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit
 
 Ein "Daumen hoch" dauert weniger als eine Sekunde und lässt Ihre Kollegen wissen, dass dies auch für sie hilfreich sein wird, wenn sie eine ähnliche Frage haben. Der Algorithmus von KNOWRON wird dies ebenfalls berücksichtigen: mehr "Daumen hoch"-Reaktionen bedeuten, dass dieses Ergebnis in Zukunft weiter oben in den Suchergebnissen erscheinen wird.
 
-#### Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.
+### Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.
 
 Es kann vorkommen, dass KNOWRON keine passende Antwort findet - oder dass die Antwort leicht daneben liegt. Dies kann vor allem durch eine sehr breite Abfrage oder fehlende Daten geschehen.
 

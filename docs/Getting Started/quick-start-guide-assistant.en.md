@@ -70,7 +70,7 @@ If you have a serial number or a machine QR code, things are easier. See below.
 
 ---
 
-### Step 4. Ask a question
+## Step 4. Ask a question
 
 You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question. 
 
@@ -87,7 +87,7 @@ The results are illustrated below.
 
 ---
 
-### Step 5. Use the Search Screen
+## Step 5. Use the Search Screen
 
 Whenever we can, we will show you answers straight from your documentation. If you want to delve deeper, you can use filters and other features, available on the **Search Screen**. Tap on "See more Results" on the Assistant Panel or select the "Search" icon from the homescreen.
 
@@ -112,13 +112,13 @@ In the future, we will also be able to show you results from your machine's logb
 
 ---
 
-### Step 6. Give feedback
+## Step 6. Give feedback
 
 KNOWRON can only get better if you give feedback! Feedback will be taken into account for the search algorithm and will even help your colleagues create better content for everyone in your organization.
 
 You can give feedback in one of two ways:
 
-#### Use "thumbs-up" to mark results that helped you
+### Use "thumbs-up" to mark results that helped you
 
 If you found a result that helped you, you can give it a thumbs-up (see below).
 
@@ -127,7 +127,7 @@ If you found a result that helped you, you can give it a thumbs-up (see below).
 
 A thumbs-up takes less than a second and it lets your colleagues know that this will be helpful to them too if they face a similar question. KNOWRON's algorithm will also take it into account: more thumbs-up reactions mean that this result will appear higher in search results in the future.
 
-#### Report any missing data for your colleagues to close the knowledge gap
+### Report any missing data for your colleagues to close the knowledge gap
 
 Sometimes, KNOWRON will not find a suitable answer - or the answer might be slightly off. This can happen particularly due to a very broad query or missing data.
 
