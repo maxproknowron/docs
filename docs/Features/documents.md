@@ -3,8 +3,8 @@
 
 The uploaded documents represent a significant part of the knowledge base for the selected product line. 
 
-!!!information "**Hint**"
-  Documents can be uploaded as a single file or an entire folder. Additionally you can search for your uploaded documents based on name or title.
+!!! tip 
+    Documents can be uploaded as a single file or an entire folder. Additionally you can search for your uploaded documents based on name or title.
 
 
 Clicking on **Upload** prompts a dialog where you can edit the Document's title, change the visibility or add tags. 
@@ -40,8 +40,8 @@ If a tag already exists, either previously created by you or your collegues it w
 ![Add tag](https://i.imgur.com/riFMvsH.jpg)
 
 
-!!! tip
-  You can edit the document's metadata also after upload. All you have to do is click on the edit button :pencil2: in the Actions section of the Documents table. 
+!!! important
+    You can edit the document's metadata also after upload. All you have to do is click on the edit button :pencil2: in the Actions section of the Documents table. 
 
 
 ## Status 

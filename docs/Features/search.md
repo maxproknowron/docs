@@ -5,16 +5,14 @@ The search function allows you to ask questions about an entire product line or 
 ![Search Bar](https://i.imgur.com/2LytyUp.png)
 
 
-!!! information "Improve your results"
-   If you formulate your query as a question, the search results will improve compared to a simple query.
+!!! tip "Improve your results"
+      If you formulate your query as a question, the search results will improve compared to a simple query.
 
-The results lists of your answer to the query is displayed based on the recency of the uploaded documents with the **Verified Answer** on top. Results of a search query are marked with tags indicating the original language of the content, as well as from where was the answer extracted: **documents**, **tutorials** or **articles**. 
+The results lists of your answer to the query is displayed based on the recency of the uploaded documents with the **Verified Answer** or  on top. Results of a search query are marked with tags indicating the original language of the content, as well as from where was the answer extracted: **documents**, **tutorials** or **articles**. 
 
 ![Results List](https://i.imgur.com/JaUJWFH.png)
 
-!!! information "**Verified Results** "
-    A verified result, indicates that this particular answer to the search query you performed has been marked by an _Admin_ or _Editor_ from your organization as being correct.
-    
+
 Formulating your query as a question implies adding more details to your query and prompts the algorithm to retrieve the most relevant answer to your question from the knowledge base of that specific product line or a particular machine.
 
 
@@ -23,9 +21,8 @@ Formulating your query as a question implies adding more details to your query a
 The results of your query are prioritized by relevancy and then recency. That is also applied when the source of the result is in a different language than the query. Simply put, if you ask a question in German, but the document where the answer is found is in English, the results will show you the translated document with your answer in German.
 
 !!! information "**Translated Results** "
-   The automated translation will be indicated by the following tag and banner:
-
-![Results List](https://i.imgur.com/SpsQqvY.png)
+      The automated translation will be indicated by the following tag and banner:
+      <p align="center"><img src="https://i.imgur.com/SpsQqvY.png" width="100%"></p>
 
 
 Results of a search query are marked with tags indicating the original language of the content, as well as from where the answer was extracted: **documents**, **tutorials**, or **articles**.
@@ -38,18 +35,8 @@ A verified result indicates that this particular answer to the search query you 
 
 ![Verified Answer](https://i.imgur.com/ox2ah0e.png) 
 
-### **Extracted Answer** 
 
-Extracted answers are your responses to your query, formulated as a question with a clear, direct answer. As seen below, asking, “What is PLA?” gives the direct definition of PLA in bold text for better visualization. Only searching for “PLA,” for example, will not yield the same results as this particular query is not that specific.
-
-![Extracted Answer](https://i.imgur.com/gK5d58R.png)
-
-The results of the query “PLA” are broader, as PLA is mentioned in several documents and articles. Therefore the definition of PLA is not shown as an (extracted) answer.
-
-
-![Not an Extracted Answer](https://i.imgur.com/vyfTgMp.png)
 ## Results not helpful?
-
 
 We take your feedback seriously. If you think the results you received for a specific query are not correct or helpful, we invite you to offer us feedback through the Results not helpful channel.
 
