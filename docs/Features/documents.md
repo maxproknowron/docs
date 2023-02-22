@@ -1,11 +1,61 @@
 # Documents
 
-The uploaded documents represent a significant part of the knowledge base for the selected product line.  Once the documents finished being uploaded, the STATUS of the documents changes to **EXTRACTED**. 
 
-
-
-![Documents](http://i.imgur.com/X9hdMOr.png)
+The uploaded documents represent a significant part of the knowledge base for the selected product line. 
 
 !!! information "**Hint** "
     Documents can be uploaded as a single file or an entire folder. Additionally you can search for your uploaded documents based on name or title.
+
+
+Clicking on **Upload** prompts a dialog where you can edit the Document's title, change the visibility or add tags. 
+
+![Documents](https://i.imgur.com/YwcPATo.png)
+
+### **Title**
+
+You can edit the document's **Title**, which will be displayed in the search results, although the original **File name** will also be shown in the Documents table. 
+
+
+![Title](https://i.imgur.com/2v3uLe4.png)
+
+### **Date created**
+
+Every document is marked by default with the date it has been uploaded to the system. You can also change the date to the actual creation date of the document. 
+
+### **Visibility**
+
+Setting the Documents' visibility to **Private** would restrict access to users from your organization only. **Public** documents are visible to all users with access to the product line the documents belong to. 
+
+![Add tag](https://i.imgur.com/i475uTD.png)
+
+
+### **Tags**
+
+Tags can either be created by typing in the name of the tag you wish to create.
+
+![Tags](https://i.imgur.com/AzOobeD.png)
+
+If a tag already exists, either previously created by you or your collegues it will be displyed in the list and can be selected and added to the document's tags. 
+
+![Add tag](https://i.imgur.com/riFMvsH.jpg)
+
+
+!!! information "**Tip** "
+  You can edit the document's metadata also after upload. All you have to do is click on the edit button :pencil2: in the Actions section of the Documents table. 
+
+
+## Status 
+
+There are there Statuses a document can have:
+
+|Status|Description| 
+|:---|:---- | 
+| <span style="color:#818589">**PROCESSING**</span> |The document(s) have been uploaded and extracted to the knowledge base| 
+| <span style="color:darkgreen">**EXTRACTED**</span>  | The document(s) are currently being uploaded     |
+|    | Text        |
+
+
+‚
+
+
 
