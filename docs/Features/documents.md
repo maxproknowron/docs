@@ -3,7 +3,7 @@
 
 The uploaded documents represent a significant part of the knowledge base for the selected product line. 
 
-![Documents Diagram](https://i.imgur.com/bGJE4eG.png)
+![Documents Diagram](https://i.imgur.com/urDb4by.png)
 
 
 !!! tip 
