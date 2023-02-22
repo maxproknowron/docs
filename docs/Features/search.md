@@ -1,4 +1,4 @@
-# Search
+# **Search**
 The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of **documents**, **tutorials**, and **articles**, and they are indexed so we can get you the most valuable result for your query.
 
 
@@ -15,7 +15,7 @@ The results lists of your answer to the query is displayed based on the recency 
 
 Formulating your query as a question implies adding more details to your query and prompts the algorithm to retrieve the most relevant answer to your question from the knowledge base of that specific product line or a particular machine.
 
-
+---
 ##  **Search Results**
 
 The results of your query are prioritized by relevancy and then recency. That is also applied when the source of the result is in a different language than the query. Simply put, if you ask a question in German, but the document where the answer is found is in English, the results will show you the translated document with your answer in German.
@@ -35,7 +35,21 @@ A verified result indicates that this particular answer to the search query you 
 
 ![Verified Answer](https://i.imgur.com/ox2ah0e.png) 
 
+### **Extracted Answer** 
 
+Extracted answers are your responses to your query, formulated as a question with a clear, direct answer. As seen below, asking, `What is PLA?` gives the direct definition of PLA in bold text for better visualization. 
+
+![Extracted Answer](https://i.imgur.com/GEniWOM.png) 
+
+
+Only searching for 'PLA' for example, will not yield the same results as this particular query is not that specific. 
+
+!!! tip "Search: PLA"
+      The results of the query `PLA` are broader, as PLA is mentioned in several documents and articles. Therefore the definition of PLA is not shown as an (extracted) answer. 
+      <p align="center"><img src="https://i.imgur.com/7x0FpbV.png" width="100%"></p>
+
+
+--- 
 ## Results not helpful?
 
 We take your feedback seriously. If you think the results you received for a specific query are not correct or helpful, we invite you to offer us feedback through the Results not helpful channel.
@@ -48,8 +62,8 @@ Clicking on **Results not helpful** prompts a window where you can add your thou
 
 Our team will get back to you as soon as possible with a solution.
 
-
-## Filters
+---
+## **Filters**
 
 
 Filters can help you narrow your search based on **tags**–depending on the selected machine or product line, **language**, or the **date of creation** of the documents.

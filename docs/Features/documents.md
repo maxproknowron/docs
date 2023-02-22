@@ -1,7 +1,10 @@
-# Documents
+# **Documents**
 
 
 The uploaded documents represent a significant part of the knowledge base for the selected product line. 
+
+![Documents Diagram](https://i.imgur.com/rAS3OH8.png)
+
 
 !!! tip 
     Documents can be uploaded as a single file or an entire folder. Additionally you can search for your uploaded documents based on name or title.
@@ -43,6 +46,7 @@ If a tag already exists, either previously created by you or your collegues it w
 !!! important
     You can edit the document's metadata also after upload. All you have to do is click on the edit button :pencil2: in the Actions section of the Documents table. 
 
+---
 
 ## Status 
 
