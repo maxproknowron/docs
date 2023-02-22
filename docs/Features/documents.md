@@ -48,7 +48,7 @@ If a tag already exists, either previously created by you or your collegues it w
 
 ---
 
-## Status 
+## **Status** 
 
 There are there Statuses a document can have:
 
