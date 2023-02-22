@@ -1,9 +1,9 @@
-# **Documents**
+# Documents
 
 
 The uploaded documents represent a significant part of the knowledge base for the selected product line. 
 
-![Documents Diagram](https://i.imgur.com/rAS3OH8.png)
+![Documents Diagram](https://i.imgur.com/bGJE4eG.png)
 
 
 !!! tip 
@@ -14,27 +14,27 @@ Clicking on **Upload** prompts a dialog where you can edit the Document's title,
 
 ![Documents](https://i.imgur.com/YwcPATo.png)
 
-### **Title**
+### Title
 
 You can edit the document's **Title**, which will be displayed in the search results, although the original **File name** will also be shown in the Documents table. 
 
 
 ![Title](https://i.imgur.com/2v3uLe4.png)
 
-### **Date created**
+### Date created
 
 Every document is marked by default with the date it has been uploaded to the system. You can also change the date to the actual creation date of the document. 
 
-### **Visibility**
+### Visibility
 
 Setting the Documents' visibility to **Private** would restrict access to users from your organization only. **Public** documents are visible to all users with access to the product line the documents belong to. 
 
 ![Add tag](https://i.imgur.com/i475uTD.png)
 
 
-### **Tags**
+### Tags
 
-Tags can either be created by typing in the name of the tag you wish to create.
+Tags can be created by typing in the name of the tag you wish to create in the Tags bar from the Edit Metadata dialog.
 
 ![Tags](https://i.imgur.com/AzOobeD.png)
 
