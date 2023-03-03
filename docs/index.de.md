@@ -2,17 +2,11 @@
 
 #### Willkommen bei KNOWRON
 
-!!! warning "🚧 Diese Seite wird gerade überarbeitet 🚧"
+<p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
 
-    Hallo! Unsere Dokumentation befindet sich noch im Aufbau, daher bitten wir Sie, diese schwierige Phase zu überstehen.
+KNOWRON ist der persönliche Assistent für mobile Arbeitskräfte. **Wir machen organisatorisches Wissen durch eine einfache Suchoberfläche leicht zugänglich.** Das bedeutet, dass Sie nicht mehr an 4 oder 5 verschiedenen Stellen nach den Informationen für Ihre Arbeit suchen müssen, sondern nur noch KNOWRON brauchen.
 
-    Sie können alle Ungenauigkeiten [direkt an mich melden](mailto:arturo@knowron.com).
-
-Hallo! Mein Name ist Arturo, ich bin der Mitbegründer und CPO von [**KNOWRON**](https://www.knowron.com/).
-
-Wir machen organisatorisches Wissen für jeden leicht zugänglich.
-
-<p align="center"><img src="https://uploads-ssl.webflow.com/5fb7dee20da971151ba8dd09/5fc63de6ce2996845e34e182_arturo.png" width="200"></p>
+KNOWRON ist auf Ihrem Telefon und im Internet verfügbar.
 
 !!! note
 
@@ -21,15 +15,26 @@ Wir machen organisatorisches Wissen für jeden leicht zugänglich.
     [English documentation 🇬🇧](https://docs.knowron.com/en){ .md-button .md-button--primary }
     </p>
 
-Der **KNOWRON-Assistent** ist ein neues, auf natürlicher Sprachverarbeitung basierendes System, das Ihnen schneller als je zuvor Zugang zu den Informationen über Ihre Anlage oder Maschine verschafft.
+## Warum sollten Sie KNOWRON nutzen?
 
-Die folgenden Seiten geben Ihnen einen Überblick über die Möglichkeiten des Systems. Diese Seite wird regelmäßig aktualisiert, insbesondere wenn neue Funktionen hinzugefügt werden.
+**Single Source of Truth für Ihre Serviceorganisation**
 
-Unsere Ziele mit dieser Anwendung sind:
+Steht die Montageanleitung dieser Maschine im Servicehandbuch oder im Benutzerhandbuch, das Sie ausgedruckt haben? Oder stand sie in der Schulungsdokumentation auf Sharepoint?
 
-- Sie effizienter zu machen, sowohl innerhalb als auch außerhalb des Unternehmens.
-- Das mühsame Nachschlagen von Informationen, wie es in Dienstleistungsunternehmen üblich ist, entfällt.
-- Kunden zu befähigen, Fragen an das System zu stellen, anstatt die Support-Hotline zu überlasten.
-- Halten Sie Ihre Zeit frei für die Arbeit, die am wichtigsten ist!
+Mit KNOWRON gibt es keine Fragen mehr - finden Sie alles an einem Ort.
 
-Sie können mich jederzeit unter <arturo@knowron.com> erreichen, wenn Sie mehr wissen wollen oder Unterstützung benötigen. Wir sprechen uns bald!
+**Blitzschneller Zugriff auf Ihre Informationen**
+
+Nehmen Sie Ihr Telefon, stellen Sie eine Frage mit Ihren eigenen Worten und erhalten Sie die richtige Antwort. Alles in nur 5 Sekunden. KNOWRON macht Ihre Zeit frei, für die Arbeit, die am wichtigsten ist.
+
+**KNOWRON beantwortet Ihre Fragen**
+
+Wann immer es möglich ist, versuchen wir, exakte Antworten auf Ihre Fragen zu formulieren, damit Sie nicht in umfangreichen Dokumentationen nachschlagen müssen - unsere KI erledigt das für Sie.
+
+**Tutorials und Fehlerbehebung für Ihre Entlastung**
+
+Sie sind ein Experte auf Ihrem Gebiet, aber ein wenig Hilfe ist immer gut. Befolgen Sie Schritt-für-Schritt-Anleitungen mit Bildern und Videos, um sicherzustellen, dass Wartungs- und Reparaturprozesse ein Kinderspiel sind.
+
+**Ihre Fragen erreichen immer die richtige Person**
+
+Sollten Sie einmal kein Ergebnis erhalten, das Ihnen bei Ihrer Arbeit weiterhilft, lassen Sie es Ihre Kollegen wissen. KNOWRON wird es an sie weiterleiten. Die Zuständigen in der technischen Dokumentation oder im First-Level-Support Bescheid werden die Wissenslücke für Sie füllen.
