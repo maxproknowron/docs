@@ -1,15 +1,14 @@
-# Kurzanleitung für die KNOWRON Control Suite
+# Kurzanleitung: Control Suite (Web)
 
-Diese Seite führt Sie durch alles, was Sie wissen müssen, um die **KNOWRON Control Suite** zu benutzen. Wenn Sie mehr über KNOWRON erfahren möchten, lesen Sie ["Was ist KNOWRON?"](what-is-knowron.md) Wenn Sie Fragen haben oder Unterstützung benötigen, [kontaktieren Sie uns bitte direkt](mailto:arturo@knowron.com)!
+Diese Seite führt Sie durch alles, was Sie wissen müssen, um die **Control Suite** zu benutzen. Wenn Sie mehr über KNOWRON erfahren möchten, lesen Sie ["Was ist KNOWRON?"](what-is-knowron.md) Wenn Sie Fragen haben oder Unterstützung benötigen, [kontaktieren Sie uns bitte direkt](mailto:arturo@knowron.com)!
 
 <p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
 
 ---
 
+## Schritt 1. Sich in die Control Suite einloggen
 
-## Schritt 1. Sich in die KNOWRON Control Suite einloggen
-
-Die KNOWRON Control Suite ist unter [suite.knowron.com](https://suite.knowron.com) erreichbar. 
+Die Control Suite ist unter [suite.knowron.com](https://suite.knowron.com) erreichbar.
 
 [Control Suite besuchen](https://suite.knowron.com){ .md-button }
 
@@ -50,7 +49,6 @@ Sie haben nun Zugriff auf die gesamte Dokumentation für die von Ihnen gewählte
 <p align="center"><img src="https://i.imgur.com/Rtijifl.gif" width="100%"></p>
 
 ---
-
 
 ## Schritt 4. Eine Frage stellen
 

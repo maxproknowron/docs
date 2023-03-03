@@ -1,14 +1,17 @@
-# Willkommen bei KNOWRON
+# Einführung
+
+#### Willkommen bei KNOWRON
 
 !!! warning "🚧 Diese Seite wird gerade überarbeitet 🚧"
 
-    Hallo! Unsere Dokumentation befindet sich noch im Aufbau, daher bitten wir Sie, diese schwierige Phase zu überstehen. 
-    
+    Hallo! Unsere Dokumentation befindet sich noch im Aufbau, daher bitten wir Sie, diese schwierige Phase zu überstehen.
+
     Sie können alle Ungenauigkeiten [direkt an mich melden](mailto:arturo@knowron.com).
 
-Hallo! Mein Name ist Arturo, ich bin der Mitbegründer und CPO von [**KNOWRON**](https://www.knowron.com/). 
+Hallo! Mein Name ist Arturo, ich bin der Mitbegründer und CPO von [**KNOWRON**](https://www.knowron.com/).
 
 Wir machen organisatorisches Wissen für jeden leicht zugänglich.
+
 <p align="center"><img src="https://uploads-ssl.webflow.com/5fb7dee20da971151ba8dd09/5fc63de6ce2996845e34e182_arturo.png" width="200"></p>
 
 !!! note
@@ -17,8 +20,6 @@ Wir machen organisatorisches Wissen für jeden leicht zugänglich.
     <p align="center">
     [English documentation 🇬🇧](https://docs.knowron.com/en){ .md-button .md-button--primary }
     </p>
-    
-
 
 Der **KNOWRON-Assistent** ist ein neues, auf natürlicher Sprachverarbeitung basierendes System, das Ihnen schneller als je zuvor Zugang zu den Informationen über Ihre Anlage oder Maschine verschafft.
 

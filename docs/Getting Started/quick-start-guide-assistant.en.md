@@ -1,4 +1,4 @@
-# Quick Start Guide for the KNOWRON Assistant
+# Quick Start Guide: Native Assistant (Mobile)
 
 This page will guide you through all you need to know to start using the **KNOWRON Assistant**. If you want to know more about KNOWRON, see ["What is KNOWRON?"](what-is-knowron.md) If you need any questions or support, [please contact us directly](mailto:arturo@knowron.com)!
 
@@ -6,20 +6,19 @@ This page will guide you through all you need to know to start using the **KNOWR
 
 ---
 
-## Step 1. Download the KNOWRON Assistant
+## Step 1. Download the Assistant
 
-The KNOWRON assistant is available for both Android and Apple devices in their respective app stores. They are free of charge to download. Simply click on the links below or scan them with your phone. 
+The assistant is available for both Android and Apple devices in their respective app stores. They are free of charge to download. Simply click on the links below or scan them with your phone.
 
-| <p align="center">Google Play Store</p>      | <p align="center">Apple App Store</p>                       |
-| ----------- | ------------------------------------ |
-|    <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Download](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron){ .md-button }</p>    | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Download](https://apps.apple.com/en-us/app/knowron-assistant/id1585382448){ .md-button }</p>  |
-
+| <p align="center">Google Play Store</p>                                                                                                                                            | <p align="center">Apple App Store</p>                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Download](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron){ .md-button }</p> | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Download](https://apps.apple.com/en-us/app/knowron-assistant/id1585382448){ .md-button }</p> |
 
 Once you've downloaded the app, simply open it.
 
-## Step 2. Log into the KNOWRON Assistant
+## Step 2. Log into the Assistant
 
-Once you open the KNOWRON Assistant, you will see the log in screen (see below).
+Once you open the Assistant, you will see the log in screen (see below).
 
 You only need your email and your KNOWRON password to log onto the system. Your **email** is normally your work email. You can find your **password** in the email you received inviting you to join your organization on KNOWRON (see below).
 
@@ -29,7 +28,7 @@ You only need your email and your KNOWRON password to log onto the system. Your 
 
     If you do not remember your password, you can reset it right on [suite.knowron.com](https://suite.knowron.com). Simply click on "Forgot Password" and follow the instructions on the screen.
 
-    If you have not received an email inviting you to KNOWRON, please contact your colleagues who are working with it or [request access here](mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0AI am unable to access the system. Please provide support.%0D%0A%0D%0AThank you!). 
+    If you have not received an email inviting you to KNOWRON, please contact your colleagues who are working with it or [request access here](mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0AI am unable to access the system. Please provide support.%0D%0A%0D%0AThank you!).
 
 After you have your email and password, simply type them in and log in!
 
@@ -47,12 +46,11 @@ Once logged in, you will see our homescreen, prompting you to scan a machine or 
 
 If you do not yet have a serial number or machine QR code, don't worry, you can select a product line directly.
 
-
 **Product lines** represent the machines, plants or processes your organization supports which you work with every day. Product lines are there to give the KNOWRON system context - i.e. what are you asking questions about?
 
 Before you continue, you have to select what product line you are interested in. You can tap on the scanning image and then on the products panel on the top of the screen. Alternatively, you can tap on products directly on the home screen.
 
-You will be in the products screen now. Simply select one from the list below, for example: `Epsilon Series`. 
+You will be in the products screen now. Simply select one from the list below, for example: `Epsilon Series`.
 
 You can follow the instructions illustrated below.
 
@@ -72,9 +70,9 @@ If you have a serial number or a machine QR code, things are easier. See below.
 
 ## Step 4. Ask a question
 
-You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question. 
+You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question.
 
-Tap on the keyboard icon at the bottom of your screen. That will pull up our Assistant panel, on which you can type in what you want to know. You can also use the microphone icon to ask your question directly using your voice. 
+Tap on the keyboard icon at the bottom of your screen. That will pull up our Assistant panel, on which you can type in what you want to know. You can also use the microphone icon to ask your question directly using your voice.
 
 Now all you have to do is ask what you want to know. KNOWRON will then go through your entire knowledge base and show you the most relevant results. Try `What is PLA?`.
 
@@ -82,8 +80,6 @@ The results are illustrated below.
 
 <p align="center"><img src="https://i.imgur.com/1G2skdh.gif
 " width="300"></p>
-
-
 
 ---
 

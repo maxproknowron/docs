@@ -1,4 +1,4 @@
-# Quick Start Guide for the KNOWRON Control Suite
+# Quick Start Guide: Control Suite (Web)
 
 This page will guide you through all you need to know to start using the **KNOWRON Control Suite**. If you want to know more about KNOWRON, see ["What is KNOWRON?"](what-is-knowron.md) If you need any questions or support, [please contact us directly](mailto:arturo@knowron.com)!
 
@@ -6,15 +6,13 @@ This page will guide you through all you need to know to start using the **KNOWR
 
 ---
 
+## Step 1. Log into the Control Suite
 
-## Step 1. Log into the KNOWRON Control Suite
-
-The KNOWRON Control Suite is accessible under [suite.knowron.com](https://suite.knowron.com). 
+The Control Suite is accessible under [suite.knowron.com](https://suite.knowron.com).
 
 [Visit the Control Suite](https://suite.knowron.com){ .md-button }
 
 You only need your email and your KNOWRON password to log onto the system. Your **email** is normally your work email. You can find your **password** in the email you received inviting you to join your organization on KNOWRON (see below).
-
 
 ??? info "Need help finding your password or invitation email?"
 
@@ -22,7 +20,7 @@ You only need your email and your KNOWRON password to log onto the system. Your 
 
     If you do not remember your password, you can reset it right on [suite.knowron.com](https://suite.knowron.com). Simply click on "Forgot Password" and follow the instructions on the screen.
 
-    If you have not received an email inviting you to KNOWRON, please contact your colleagues who are working with it or [request access here](mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0AI am unable to access the system. Please provide support.%0D%0A%0D%0AThank you!). 
+    If you have not received an email inviting you to KNOWRON, please contact your colleagues who are working with it or [request access here](mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0AI am unable to access the system. Please provide support.%0D%0A%0D%0AThank you!).
 
 After you have your email and password, simply type them in and log in!
 
@@ -51,7 +49,6 @@ You now have access to the entire documentation for the product line you have se
 <p align="center"><img src="https://i.imgur.com/Rtijifl.gif" width="100%"></p>
 
 ---
-
 
 ## Step 4. Ask a question
 
