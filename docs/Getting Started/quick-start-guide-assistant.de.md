@@ -1,4 +1,4 @@
-# Kurzanleitung für den KNOWRON Assistant
+# Kurzanleitung für den Native Assistant (Mobile)
 
 Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **KNOWRON Assistant** zu benutzen. Wenn Sie mehr über KNOWRON erfahren möchten, lesen Sie ["Was ist KNOWRON?"](what-is-knowron.md) Wenn Sie Fragen haben oder Unterstützung benötigen, [wenden Sie sich bitte direkt an uns](mailto:arturo@knowron.com)!
 
@@ -10,10 +10,9 @@ Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **KNOWRON Ass
 
 Der KNOWRON Assistent ist sowohl für Android- als auch für Apple-Geräte in den jeweiligen App-Stores verfügbar. Der Download ist kostenlos. Klicken Sie einfach auf die unten stehenden Links oder scannen Sie sie mit Ihrem Smartphone.
 
-| <p align="center">Google Play Store</p>      | <p align="center">Apple App Store</p>                       |
-| ----------- | ------------------------------------ |
-|    <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Herunterladen](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron){ .md-button }</p>    | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Herunterladen](https://apps.apple.com/en-us/app/knowron-assistant/id1585382448){ .md-button }</p>  |
-
+| <p align="center">Google Play Store</p>                                                                                                                                                 | <p align="center">Apple App Store</p>                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Herunterladen](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron){ .md-button }</p> | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Herunterladen](https://apps.apple.com/en-us/app/knowron-assistant/id1585382448){ .md-button }</p> |
 
 Öffnen Sie nach dem Download die App.
 
