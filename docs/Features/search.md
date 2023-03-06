@@ -1,5 +1,5 @@
 # Search
-The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of **documents**, **tutorials**, and **articles**, and they are indexed so we can get you the most valuable result for your query.
+The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of **documents**, **tutorials**, and **articles**, so we can get you the most valuable result for your query.
 
 
 ![Search Bar](https://i.imgur.com/2LytyUp.png)
