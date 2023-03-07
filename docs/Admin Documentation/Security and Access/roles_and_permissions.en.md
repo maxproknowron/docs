@@ -58,7 +58,7 @@ Editors are **not** entitled to change global settings, or invite other colleagu
 
 ### Viewer
 
-Admins are **normal users**. They are the bulk of KNOWRON's user base. They are often service engineer and field technicians that need access to information fast. They don't always have the time or the expertise to create or change content, so they are not allowed to.
+Viewers are **normal users**. They are the bulk of KNOWRON's user base. They are often service engineer and field technicians that need access to information fast. They don't always have the time or the expertise to create or change content, so they are not allowed to.
 
 They can see all **content units** (tutorials, troubleshooting, documents and product lines) as well as, of course, search.
 
