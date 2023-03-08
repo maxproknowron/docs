@@ -73,7 +73,7 @@ When uploading a single document, you are prompted to edit the document's metada
 
 
 !!! Tip
-       Adding a tag to a document, such as `Service Manual` .... 
+      Creating a tag when uploading/editing a document, such as `Service Manual, automatically adds it to the Search filters and offers you the possibility to filter based on tags and narrows your results.
 
 
 --- 
