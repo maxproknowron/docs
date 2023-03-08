@@ -59,8 +59,7 @@ As an Admin, you can create a tutorial by clicking on the `Create` button which 
 <p align="center"><img src="https://i.imgur.com/3QfaJs5.gif" width="90%"></p>
 
 !!! info "<span style="color:#172B4D">**Want to know more about Tutorials?** </span> "
-     You can find more about Tutorial's visbility here. 
-
+     If you want to know more about how to create or edit a Tutorial, as well as about changing the visibility, click here.
 ---
 
 ## <span style="color:#FA6E3F">**Documents** </span> 
