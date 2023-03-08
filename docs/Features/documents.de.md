@@ -1,4 +1,4 @@
-# Documents
+# Dokumente
 
 Die hochgeladenen Dokumente stellen einen signifikanten Teil der Wissensbasis für die ausgewählte Produktlinie dar.
 
