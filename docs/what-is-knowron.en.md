@@ -5,6 +5,8 @@
 ## What is KNOWRON?
 KNOWRON is the personal assistant for blue collar workers. **We make organizational knowledge easy to access through one simple search interface.** This means that instead of searching in 4 or 5 different places for the information that you need to get your job done, you only need KNOWRON.
 
+Learn more about KNOWRON [here](https://www.knowron.com).
+
 KNOWRON is available on your phone and on the web.
 
 ## Why should you use KNOWRON?

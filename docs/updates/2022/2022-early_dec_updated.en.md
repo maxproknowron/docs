@@ -43,7 +43,3 @@ Here's an overview:
 - **New**: Users can now use the new log in screen to reset their passwords. 
 
 - **Improvement**: Users can now search in the user and document overview screen to more quickly find the person or document they are looking for.
-
-## Let us know what you think!
-
-You can always hit me up under [arturo@knowron.com](mailto:arturo@knowron.com "Give us some feedback!")

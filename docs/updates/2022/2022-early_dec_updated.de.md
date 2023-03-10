@@ -43,7 +43,3 @@ Hier ist ein Überblick:
 - **Neu**: Benutzer können jetzt den neuen Anmeldebildschirm verwenden, um ihre Passwörter zurückzusetzen. 
 
 - **Verbesserung**: Die Benutzer können jetzt in der Benutzer- und Dokumentenübersicht suchen, um die gesuchte Person oder das gesuchte Dokument schneller zu finden.
-
-## Lassen Sie uns wissen, was Sie denken!
-
-Sie können mich jederzeit unter [arturo@knowron.com](mailto:arturo@knowron.com "Give us some feedback!") erreichen.
