@@ -1,6 +1,6 @@
 # Quick Start Guide for Admins of the KNOWRON Control Suite
 
-This page will guide you through all you need to know to start using the **KNOWRON Control Suite**. If you want to know more about KNOWRON, see ["What is KNOWRON?"](what-is-knowron.md) If you need any questions or support, [please contact us directly](mailto:arturo@knowron.com)!
+This page will guide you through all you need to know to start using the **KNOWRON Control Suite**. If you need any questions or support, [please contact us directly](mailto:arturo@knowron.com)!
 
 <p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
 

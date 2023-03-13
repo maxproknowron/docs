@@ -1,6 +1,6 @@
 # Kurzanleitung für den Native Assistant (Mobile)
 
-Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **KNOWRON Assistant** zu benutzen. Wenn Sie mehr über KNOWRON erfahren möchten, lesen Sie ["Was ist KNOWRON?"](what-is-knowron.md) Wenn Sie Fragen haben oder Unterstützung benötigen, [wenden Sie sich bitte direkt an uns](mailto:arturo@knowron.com)!
+Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **KNOWRON Assistant** zu benutzen. Wenn Sie Fragen haben oder Unterstützung benötigen, [wenden Sie sich bitte direkt an uns](mailto:arturo@knowron.com)!
 
 <p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
 

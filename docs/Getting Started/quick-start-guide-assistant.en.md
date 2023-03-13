@@ -1,6 +1,6 @@
 # Quick Start Guide: Native Assistant (Mobile)
 
-This page will guide you through all you need to know to start using the **KNOWRON Assistant**. If you want to know more about KNOWRON, see ["What is KNOWRON?"](what-is-knowron.md) If you need any questions or support, [please contact us directly](mailto:arturo@knowron.com)!
+This page will guide you through all you need to know to start using the **KNOWRON Assistant**. If you need any questions or support, [please contact us directly](mailto:arturo@knowron.com)!
 
 <p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
 
