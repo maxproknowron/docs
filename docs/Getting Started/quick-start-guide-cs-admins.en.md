@@ -33,10 +33,8 @@ By clicking on the :pencil2: icon on the product line, the dialog pops up again 
 <p align="center"><img src="https://i.imgur.com/vD2crVQ.gif" width="90%"></p>
 
 
-
-
 ---
-<span style="color:#FA6E3F">**Charts** </span>
+## <span style="color:#FA6E3F">**Charts** </span>
 
 
 Charts allows you, as an Admin, to have an overview of where and by how many users Knowron has been used. This will allow you to see the crucial business value of the product. 
