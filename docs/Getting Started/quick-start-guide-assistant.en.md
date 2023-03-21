@@ -12,7 +12,7 @@ The assistant is available for both Android and Apple devices in their respectiv
 
 | <p align="center">Google Play Store</p>                                                                                                                                            | <p align="center">Apple App Store</p>                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="https://i.imgur.com/2TxG0UL.jpg" width="75%">[Download](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron){ .md-button }</p> | <p align="center"><img src="https://i.imgur.com/9TNW7li.jpg" width="75%">[Download](https://apps.apple.com/en-us/app/knowron-assistant/id1585382448){ .md-button }</p> |
+| <p align="center"><img src="https://i.imgur.com/OpA9C58.png" width="70%">[Download](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron){ .md-button }</p> | <p align="center"><img src="https://i.imgur.com/hntAI1x.png" width="70%">[Download](https://apps.apple.com/en-us/app/knowron-assistant/id1585382448){ .md-button }</p> |
 
 Once you've downloaded the app, simply open it.
 
