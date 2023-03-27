@@ -36,27 +36,19 @@ Once logged in, you will see an overview of the product lines that your colleagu
 
 **Product lines** represent the machines, plants or processes your organization supports which you work with every day. Product lines are there to give the KNOWRON system context - i.e. what are you asking questions about?
 
-Before you continue, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl.
+Before you continue, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen.
 
 <p align="center"><img src="https://i.imgur.com/TfkKWZ3.gif" width="100%"></p>
 
 ---
 
-## Step 3. Go to the search screen
-
-You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question. To access the **Search screen**, simply select "Search" on the menu to the left of the screen (see below).
-
-<p align="center"><img src="https://i.imgur.com/Rtijifl.gif" width="100%"></p>
-
----
-
-## Step 4. Ask a question
+## Step 3. Ask a question
 
 Now all you have to do is ask what you want to know. Type in the search bar and press enter. KNOWRON will then go through your entire knowledge base and show you the most relevant results.
 
 Below is a sample search interaction for the question `In what humidity can the printer be used?`
 
-<p align="center"><img src="https://imgur.com/a1M9jUN.gif
+<p align="center"><img src="https://i.imgur.com/a1M9jUN.gif
 " width="70%"></p>
 
 We can show you results from the following resources:

@@ -36,21 +36,14 @@ Sobald Sie eingeloggt sind, sehen Sie eine Übersicht über die Produktlinien, d
 
 **Produktlinien** stehen für die Maschinen, Anlagen oder Prozesse, die Ihr Unternehmen betreibt und mit denen Sie jeden Tag arbeiten. Produktlinien sind dazu da, dem KNOWRON System einen Kontext zu geben - d.h. worüber stellen Sie Fragen?
 
-Bevor Sie fortfahren, müssen Sie die Produktlinie auswählen, die für Sie relevant ist. Klicken Sie einfach darauf, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird geöffnet.
+Bevor Sie fortfahren, müssen Sie die Produktlinie auswählen, die für Sie relevant ist. Klicken Sie einfach darauf, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird geöffnet und Sie gelangen zur Suchseite.
 
 <p align="center"><img src="https://i.imgur.com/TfkKWZ3.gif" width="100%"></p>
 
----
-
-## Schritt 3. Suchseite aufrufen
-
-Sie haben nun Zugriff auf die gesamte Dokumentation für die von Ihnen gewählte Produktlinie. Als nächstes müssen Sie eine Frage stellen. Um die **Suchseite** aufzurufen, wählen Sie einfach "Suchen" im Menü auf der linken Seite des Bildschirms (siehe unten).
-
-<p align="center"><img src="https://i.imgur.com/Rtijifl.gif" width="100%"></p>
 
 ---
 
-## Schritt 4. Eine Frage stellen
+## Schritt 3. Eine Frage stellen
 
 Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. Tippen Sie in die Suchleiste und drücken Sie die Eingabetaste. KNOWRON durchsucht dann Ihre gesamte Wissensdatenbank und zeigt Ihnen die relevantesten Ergebnisse an.
 
