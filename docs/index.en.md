@@ -16,6 +16,14 @@ KNOWRON is available on your phone and on the web.
     [Dokumentation auf Deutsch 🇩🇪](https://docs.knowron.com/de){ .md-button .md-button--primary }
     </p>
 
+
+## Get Started
+
+We have prepared quick start guides for the Native Assistant and the Control Suite to get you started in seconds.
+
+[Native Assistant](./Getting%20Started/quick-start-guide-assistant.en.md){ .md-button .md-button--primary } 
+[Control Suite](./Getting%20Started/quick-start-guide-cs.en.md){ .md-button .md-button--primary }
+
 ## Why should you use KNOWRON?
 
 **A single source of truth for your service organization**

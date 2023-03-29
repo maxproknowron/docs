@@ -4,9 +4,9 @@
 
 <p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
 
-KNOWRON ist der persönliche Assistent für mobile Arbeitskräfte. **Wir machen organisatorisches Wissen durch eine einfache Suchoberfläche leicht zugänglich.** Das bedeutet, dass Sie nicht mehr an 4 oder 5 verschiedenen Stellen nach den Informationen für Ihre Arbeit suchen müssen, sondern nur noch KNOWRON brauchen.
+KNOWRON ist der persönliche Assistent für mobile Arbeitskräfte. **Wir machen das Wissen ihrer ganzen Organisation durch eine einfache Suchoberfläche leicht zugänglich.** Das bedeutet, dass Sie nicht mehr an 4 oder 5 verschiedenen Stellen nach den Informationen für Ihre Arbeit suchen müssen, sondern nur noch KNOWRON brauchen.
 
-KNOWRON ist auf Ihrem Telefon und im Internet verfügbar.
+KNOWRON ist auf [Ihrem Handy](./Getting%20Started/quick-start-guide-assistant.de.md) und im [Internet](./Getting%20Started/quick-start-guide-cs.de.md) verfügbar.
 
 !!! note
 
@@ -14,6 +14,13 @@ KNOWRON ist auf Ihrem Telefon und im Internet verfügbar.
     <p align="center">
     [English documentation 🇬🇧](https://docs.knowron.com/en){ .md-button .md-button--primary }
     </p>
+
+## Gleich Starten
+
+Wir haben Kurzanleitungen für den Native Assistant und die Control Suite vorbereitet, damit Sie in Sekundenschnelle loslegen können.
+
+[Native Assistant](./Getting%20Started/quick-start-guide-assistant.de.md){ .md-button .md-button--primary } 
+[Control Suite](./Getting%20Started/quick-start-guide-cs.de.md){ .md-button .md-button--primary }
 
 ## Warum sollten Sie KNOWRON nutzen?
 
