@@ -21,8 +21,8 @@ Once you have linked your answer to the query asked by users, your answer will b
 <p align="center"><img src="https://i.imgur.com/mwHXSAv.gif" width="100%"></p>
 
 
-!!! Want to know more about Verified Answers?
-    Find out more about Verified Answers and Search Results [HERE][/Features/search.en.md]
+!!! tip "Want to know more about Verified Answers?"
+    Find out more about Verified Answers and Search Results [HERE][search.en.md]
 
 
 If you think the answer flagged by the user is actually correct, then you can delete the Unhandeled Query with the delete :wastebasket: button next to each query.
