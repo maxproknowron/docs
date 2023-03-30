@@ -77,7 +77,7 @@ Tags can help you filter for specific types of documents, such as Service or Use
 ![Tags](https://i.imgur.com/KjkplBs.png)
 
 
-#### 2.  **Language**: 
+#### 2.  **Language** 
 
 You can filter based on the existing languages supported by your organization. The Language that is selected by default is the Language of your system. 
 

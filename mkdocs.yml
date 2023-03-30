@@ -55,6 +55,7 @@ nav:
       - "Features/articles.md"
       - "Features/tutorials.md"
       - "Features/adminpanel.md"
+      - "Features/searchfeedback.md"
   - Admin:
       - Security and Access:
           - "Admin Documentation/Security and Access/product_access_groups.md"
