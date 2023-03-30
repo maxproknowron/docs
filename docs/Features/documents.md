@@ -58,7 +58,5 @@ There are three Statuses a document can have:
 |  <span style="color:red">**FAILED**</span>  | The documents have failed to upload        |
 
 
-‚
-
 
 
