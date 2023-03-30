@@ -18,10 +18,10 @@ As an Admin or Editor, you have the ability to select the correct answer to a us
 
 Once you have linked your answer to the query asked by users, your answer will be showed as an Verified Answer in the search results. 
 
-<p align="center"><img src="https://i.imgur.com/mwHXSAv.gif" width="100%"></p>
+![Search for VA](https://i.imgur.com/mwHXSAv.gif)
 
 !!! tip 
-     Find out more about Verified Answers and Search Results [HERE][/search.en.md]
+     Find out more about Verified Answers and Search Results [HERE][docs/Features/search.en.md]
 
 If you think the answer flagged by the user is actually correct, then you can delete the Unhandeled Query with the delete :wastebasket: button next to each query.
 
