@@ -37,7 +37,16 @@ Once you've written out the steps, consider adding images or videos to go along 
 
 <p align="center"><img src="https://i.imgur.com/6DLmhxW.gif" width="100%"></p>
 
-### Step 4. Change visibility and Publish 
+### Step 4. Auto-translate your content
+
+We aim to provide you with the convenience of automatically translating your content into the supported languages of your organization. With this feature, you can save time on translating your entries and effortlessly share documents with your team.
+
+After you have added content in one language, the auto-translate feature will be activated. You can then easily trigger it by clicking on the `Auto-translate` button, which will translate the originally created content into the language of your preference. Although the translated content cannot be removed automatically, you can still edit it afterward to ensure accuracy and relevance.
+
+<p align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-dbef59154e.gif" width="100%"></p>
+
+
+### Step 5. Change visibility and Publish 
 
 Almost done! Now if you want to change the visibility of the Tutorial, you can choose between Private and Public. The Public setting will allow users from outside your organization to **view** the tutorials, while the Private setting makes the tutorial visible only to users in your organization.
 

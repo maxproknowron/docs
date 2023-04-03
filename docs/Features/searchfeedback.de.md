@@ -14,11 +14,11 @@ Als Admin oder Editor haben Sie die Möglichkeit, die richtige Antwort auf die F
 
 In der oberen linken Ecke des Dialogs sehen Sie die Frage, die der Benutzer gestellt hat. Um die richtige Antwort für die spezifische Frage zu finden, können Sie das Suchfeld im Dialogfeld verwenden. Wir möchten sicherstellen, dass unsere Ergebnisse korrekt und hilfreich sind. Daher sind wir für Ihre Beiträge als Administrator oder Editor sehr dankbar.
 
-![AddPair](https://i.imgur.com/cpQNxYC.gif)
+![AddPair](https://im3.ezgif.com/tmp/ezgif-3-75c95e0f67.gif)
 
 Sobald Sie Ihre Antwort mit der von den Nutzern gestellten Frage verknüpft haben, wird Ihre Antwort als verifizierte Antwort in den Suchergebnissen angezeigt.
 
-![Search for VA](https://i.imgur.com/mwHXSAv.gif)
+![Search for VA](https://im3.ezgif.com/tmp/ezgif-3-390fa8e9fe.gif)
 
 !!! tip 
      Erfahren Sie mehr über verifizierte Antworten und Suchergebnisse [HIER][docs/Features/search.en.md]
