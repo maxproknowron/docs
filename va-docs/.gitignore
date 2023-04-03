@@ -1,0 +1,10 @@
+
+site/
+
+*/.DS_Store
+
+*.pyc
+
+docs/Admin Documentation/.DS_Store
+
+.DS_Store
