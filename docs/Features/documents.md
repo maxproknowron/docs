@@ -18,7 +18,7 @@ Clicking on **Upload** prompts a dialog where you can edit the Document's title,
 You can edit the document's **Title**, which will be displayed in the search results, although the original **File name** will also be shown in the Documents table. 
 
 
-![Title](https://i.imgur.com/2v3uLe4.png)
+![Table](https://i.imgur.com/2v3uLe4.png)
 
 ### **Date created**
 

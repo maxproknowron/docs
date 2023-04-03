@@ -4,9 +4,9 @@
 
 
 !!! warning 
-       Tutorials just like product lines are dependent on your organization. That means that you see the tutorials outside your organsiation although not edit or create them.
+       Tutorials just like product lines are dependent on your organization. That means that you see the tutorials outside your organization although not edit or create them.
 
-Users with the Admin or Editor role can **create**, **edit**, or **delete** tutorials inside their organisation, as well as set them as published or unpublished and change their visibility. 
+Users with the Admin or Editor role can **create**, **edit**, or **delete** tutorials inside their organization, as well as set them as published or unpublished and change their visibility. 
 
 <p align="center"><img src="https://i.imgur.com/AK6J9OL.gif" width="100%"></p>
 

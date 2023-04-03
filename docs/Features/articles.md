@@ -11,7 +11,7 @@ As an user with the **Admin** or **Editor** role you can create, edit or delete 
 
 To create an Article, all you have to do is click on the `Create an article` button and the Articles dialog will be prompted open. 
 
-<p align="center"><img src="https://i.imgur.com/69qg47i.gif" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/69qg47i.gif" width="100%"></p>
 
 We offer two options for creating your content. You can either use our pre-made template, called the Error/Solution Template, or create your own content from scratch.
 
@@ -33,4 +33,3 @@ In the `ACTIONS` pannel, you can choose to either edit :pencil2: or delete :wast
 <p align="center"><img src="https://i.imgur.com/trkKEyG.png" width="100%"></p>
 
        
-
