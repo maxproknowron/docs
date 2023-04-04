@@ -1,8 +1,8 @@
-# <span style="color:#ac3229"> Documents </span> 
+# <span style="color:#FA6E3F"> Documents </span> 
 
 Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor, you can upload one single document or an entire file.
 
-![Documents Diagram](https://i.imgur.com/Eh8enbE.png)
+![Documents Diagram](https://i.imgur.com/eJN4itO.png)
 
 
 !!! tip 
@@ -11,14 +11,14 @@ Documents related to your product or product line represent one of the content u
 
 Clicking on **Upload** prompts a dialog where you can edit the Document's title, change the visibility or add tags. 
 
-![Documents](https://i.imgur.com/0sLjcSS.png)
+![Documents](https://i.imgur.com/YwcPATo.png)
 
 ### **Title**
 
 You can edit the document's **Title**, which will be displayed in the search results, although the original **File name** will also be shown in the Documents table. 
 
 
-![Table](https://i.imgur.com/1L7TQe4.png)
+![Table](https://i.imgur.com/2v3uLe4.png)
 
 ### **Date created**
 
@@ -35,11 +35,11 @@ Setting the Documents' visibility to **Private** would restrict access to users 
 
 Tags can be created by typing in the name of the tag you wish to create in the Tags bar from the `Edit Metadata` dialog.
 
-![Tags]( https://i.imgur.com/0qLxYwh.png)
+![Tags](https://i.imgur.com/AzOobeD.png)
 
 If a tag already exists, either previously created by you or your collegues it will be displyed in the list and can be selected and added to the document's tags. 
 
-![Add tag](https://i.imgur.com/DRUKkNT.jpg)
+![Add tag](https://i.imgur.com/riFMvsH.jpg)
 
 
 !!! important

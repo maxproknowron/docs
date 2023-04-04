@@ -1,11 +1,11 @@
 # Early December Product Update
 
-Hello everybody! Here at ASMPT Virtual Assist we've been working on a couple of features and improvements we think will make your life and that of your colleagues easier!
+Hello everybody! Here at KNOWRON we've been working on a couple of features and improvements we think will make your life and that of your colleagues easier!
 
 Here's an overview: 
 
-## ASMPT Virtual Assist Virtual Assist App
-> As always, you can download the ASMPT Virtual Assist on the [Apple App Store](https://apps.apple.com/eg/app/asmpt-virtual-assist/id1614625842 "ASMPT Virtual Assist on the App Store") or the [Google Play Store](https://play.google.com/store/apps/details?id=com.knowron.assistant.asmassistant "ASMPT Virtual Assist on Google Play").
+## Knowron Assistant
+> As always, you can download the KNOWRON Assistant on the [Apple App Store](https://apps.apple.com/at/app/knowron-assistant/id1585382448 "KNOWRON Assistant on the App Store") or the [Google Play Store](https://play.google.com/store/apps/details?id=com.knowron.assistant.knowron "KNOWRON Assistant on Google Play").
 
 ### v1.1.5 - Users can now read documents and images more easily
 - **New**: You can now read documents in landscape mode. This will give you more space to zoom in and look at small text or hard-to-read diagrams.
@@ -26,19 +26,19 @@ Here's an overview:
 
 - **Improvement**: If there is only one product line to select from, it is selected by default.
 
-### v1.1.4 - External users can now have access to the ASMPT Virtual Assist System
+### v1.1.4 - External users can now have access to the KNOWRON System
 
-- **New**: Admins can now give access to external users to their documentation and knowledge, while still choosing what to maintain inside the organization.! Contact ASMPT Virtual Assist for more details.
+- **New**: Admins can now give access to external users to their documentation and knowledge, while still choosing what to maintain inside the organization.! Contact KNOWRON for more details.
 
 - **Improvement**: Documents screen now filters through document titles and paginates the result.
 
 - **Improvement**: Made it easier to select a product in order to start asking questions. Made sure that all the screen elements are visible without scrolling on the QR code scan screen.
 
-## Virtual Assist Web
-> You can access the [ASMPT Virtual Assist Virtual Assist Web](https://virtualassist.smt.asmpt.com// "ASMPT Virtual Assist Virtual Assist Web") in any browser.
+## Control Suite
+> You can access the [KNOWRON Control Suite](https://suite.knowron.com/ "KNOWRON Control Suite") in any browser.
 
-### v0.3.0 - External users can now have access to the ASMPT Virtual Assist System
-- **New**: You can now invite entire organizations to have access to some of the knowledge they have onboarded onto ASMPT Virtual Assist. This is particularly useful for clients and contractors that use your facilities or machines! Admins and Editors get to decide what content they share with external users. Ask us about it so that we can set it up together!
+### v0.3.0 - External users can now have access to the KNOWRON System
+- **New**: You can now invite entire organizations to have access to some of the knowledge they have onboarded onto KNOWRON. This is particularly useful for clients and contractors that use your facilities or machines! Admins and Editors get to decide what content they share with external users. Ask us about it so that we can set it up together!
 
 - **New**: Users can now use the new log in screen to reset their passwords. 
 

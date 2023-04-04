@@ -1,6 +1,6 @@
 # Produkt-Update Ende Januar
 
-## ASMPT Virtual Assist Virtual Assist App
+## Knowron Assistant
 
 ### v1.1.8 - Zugang beantragen, Feedback geben und Bugs beseitigen
 - **Neu**: Wenn Benutzer noch keinen Zugang zur Anwendung haben, können sie einfach über den Anmeldebildschirm Zugang beantragen. Die entsprechende E-Mail wird dann an die richtige Person weitergeleitet, um den Zugang zu ermöglichen.
@@ -12,7 +12,7 @@
     - Ein Problem beim Starten von Tutorials über den Suchbildschirm wurde behoben.
     - Sie können nun Sonderzeichen beim Filtern auf dem Dokumentenbildschirm verwenden.
 
-## Virtual Assist Web
+## Control Suite
 
 ### v0.5.0 - Neue Filter bei der Suche. Hochladen von Dokumenten in großen Mengen.
 
