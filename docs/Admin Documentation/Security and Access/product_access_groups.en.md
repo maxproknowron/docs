@@ -1,7 +1,7 @@
 # Product Access Groups
 
 !!! info "This feature is not enabled by default"
-    If you want to try out product access groups for your organization, please reach out to [us](https://smt.asmpt.com/en/products/software-solutions/virtual-assist).
+    If you want to try out product access groups for your organization, please reach out to <arturo@knowron.com>.
 
 Service organizations often have different teams which need to access different types of documents. Service sales will need price lists and product brochures, technicians on the field will need service manuals and technical bulletins, commissioning teams will need assembly instructions, etc.
 
@@ -16,11 +16,11 @@ If you are interested in more details about product access groups, see the examp
 
 ??? example
 
-    Imagine a company, **3D Printers GmbH**. They produce and market 3D printers for the industrial market. They are using ASMPT Virtual Assist for their extensive documentation and information delivery needs. 3D Printers GmbH has two divisions based on their region: **EMEA** and **Americas**. Both of these divisions are under **Global Management**, headquartered in Munich.
+    Imagine a company, **3D Printers GmbH**. They produce and market 3D printers for the industrial market. They are using KNOWRON for their extensive documentation and information delivery needs. 3D Printers GmbH has two divisions based on their region: **EMEA** and **Americas**. Both of these divisions are under **Global Management**, headquartered in Munich.
 
     Chandler is a global service manager and is in charge of coordinating all service operations across the world. Joey and Ross, the heads of service for EMEA and Americas, respectively, report to him.
 
-    There are two types of documents Chandler wants to make accessible through ASMPT Virtual Assist:
+    There are two types of documents Chandler wants to make accessible through KNOWRON:
 
     - 3D Printers (assembly instructions, circuit diagrams, service manuals, etc.)
     - Sales documents (brochures, price lists, catalogs)
@@ -33,7 +33,7 @@ If you are interested in more details about product access groups, see the examp
 
     He still wants all users to have access to the 3D printer documentation but wants to restrict access to the sales documents based on region.
 
-    Here's where **Product Access Groups** can help: with ASMPT Virtual Assist's help, Chandler creates three different access groups:
+    Here's where **Product Access Groups** can help: with KNOWRON's help, Chandler creates three different access groups:
 
     - **Global product group** for Chandler and his team in Munich
     - **EMEA product group** for everyone in the EMEA team

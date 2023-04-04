@@ -1,4 +1,4 @@
-# <span style="color:#ac3229"> Tutorials </span> 
+# <span style="color:#FA6E3F"> Tutorials </span> 
 
 **Tutorials** bieten eine instinktive Methode zur Vermittlung von Prozesswissen über ein Produkt oder eine Produktlinie. Sie können verwendet werden, um Kunden durch einen Prozess zu führen oder um Ihren Mitarbeitern eine Schritt-für-Schritt-Anleitung für die Ausführung einer Aufgabe zu geben.
 

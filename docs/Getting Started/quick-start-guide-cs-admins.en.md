@@ -1,16 +1,16 @@
-# Quick Start Guide for Admins of the ASMPT Virtual Assist Virtual Assist Web
+# Quick Start Guide for Admins of the KNOWRON Control Suite
 
-This page will guide you through all you need to know to start using the **ASMPT Virtual Assist Virtual Assist Web**. If you need any questions or support, [please contact us directly](https://smt.asmpt.com/en/products/software-solutions/virtual-assist)!
+This page will guide you through all you need to know to start using the **KNOWRON Control Suite**. If you need any questions or support, [please contact us directly](mailto:arturo@knowron.com)!
 
-<p align="center"><img src="https://i.imgur.com/mL7XYMH.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
 
 ---
 
-## <span style="color:#ac3229">**Product Line** </span> 
+## <span style="color:#FA6E3F">**Product Line** </span> 
 
 Once logged in, you will see an overview of the product lines that your main organization has added or your fellow admin or editor colleagues.
 
-**Product lines** represent the machines, plants, or processes your organization supports that you work with every day. Product lines are there to give the ASMPT Virtual Assist system context - i.e. what are you asking questions about?
+**Product lines** represent the machines, plants, or processes your organization supports that you work with every day. Product lines are there to give the KNOWRON system context - i.e. what are you asking questions about?
 
 Before you continue, you can either select what product line you are interested in or create a new one for your organization.
 
@@ -34,17 +34,17 @@ By clicking on the :pencil2: icon on the product line, the dialog pops up again 
 
 
 ---
-## <span style="color:#ac3229">**Charts** </span>
+## <span style="color:#FA6E3F">**Charts** </span>
 
 
-Charts allows you, as an Admin, to have an overview of where and by how many users ASMPT Virtual Assist has been used. This will allow you to see the crucial business value of the product. 
+Charts allows you, as an Admin, to have an overview of where and by how many users Knowron has been used. This will allow you to see the crucial business value of the product. 
 
 <p align="center"><img src="https://i.imgur.com/0Y2lGyr.png" width="70%"></p>
 
 You can check the **Number of online machines**, the **Number of answered questions**, and a graph indicating the **Weekly active users**. Additionally, for better visualization, we provide you with a map that shows you the location of the **active machines**.
 
 ---
-## <span style="color:#ac3229">**Tutorials** </span> 
+## <span style="color:#FA6E3F">**Tutorials** </span> 
 
 **Tutorials** provide an instinctive method of delivering process knowledge regarding a product or product line. They can be used to guide customers through a process or to provide your employees with a step-by-step guide on how to perform a task.
 
@@ -54,7 +54,7 @@ You can check the **Number of online machines**, the **Number of answered questi
 
 Inside your organization, you can **create**, **edit**, or **delete** tutorials, as well as set them as published or unpublished and change their visibility. 
 
-<p align="center"><img src="https://i.imgur.com/hOZdtZt.gif" width="90%"></p>
+<p align="center"><img src="https://i.imgur.com/AK6J9OL.gif" width="90%"></p>
 
 
 As an Admin, you can create a tutorial by clicking on the `Create` button which will prompt you to the `Tutorial Editor` page. Here you can add steps and images as well as change the visibility of the tutorial. In order to reach a wider audience, tutorials allow you to add content in other languages.
@@ -66,7 +66,7 @@ As an Admin, you can create a tutorial by clicking on the `Create` button which 
      If you want to know more about how to create or edit a Tutorial, as well as about changing the visibility, click here.
 ---
 
-## <span style="color:#ac3229">**Documents** </span> 
+## <span style="color:#FA6E3F">**Documents** </span> 
 
 Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Admin, you can upload one single document or an entire file.
 
@@ -84,12 +84,12 @@ When uploading a single document, you are prompted to edit the document's metada
 
 --- 
 
-## <span style="color:#ac3229">**Articles** </span> 
+## <span style="color:#FA6E3F">**Articles** </span> 
 
 Articles allow you, admins, to create free-form content. While Tutorials are structured and have a specific purpose to their own, Articles allow you to write anything from a frequently asked question to a problem-solution piece for commonly encountered issues. Articles can be linked to any other content in the knowledge base.
 
 
-<p align="center"><img src="https://i.imgur.com/CKh9kQt.gif" width="70%"></p>
+<p align="center"><img src="https://i.imgur.com/69qg47i.gif" width="70%"></p>
 
 !!! tip "Do you want to know more about Articles?"
        If you want to know more about how to create, edit or delete Articles, click here. 
@@ -97,7 +97,7 @@ Articles allow you, admins, to create free-form content. While Tutorials are str
 
 ---
 
-##  <span style="color:#ac3229">**User Management** <span>  
+##  <span style="color:#FA6E3F">**User Management** <span>  
 
 
 As an admin, you can invite users to the platform and assign or edit their roles. All you have to do is go to the Admin Panel and select User Management.
@@ -107,7 +107,7 @@ Once selected, you can choose between adding single users, by clicking on the `A
 
 
 !!! tip
-       A detailed explanation of Roles and Permissions offered on the ASMPT Virtual Assist platform can be found [here](../Admin Documentation/Security and Access/roles_and_permissions.md) 
+       A detailed explanation of Roles and Permissions offered on the KNOWRON platform can be found [here](../Admin Documentation/Security and Access/roles_and_permissions.md) 
 
 
 You can opt to add multiple users at once by clicking on the `Add from file` button. To make it easier for you, we added a downloaded template that can be filled up with the information of the users and uploaded into he "User file upload" dialog.
