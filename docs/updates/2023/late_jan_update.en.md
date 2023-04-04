@@ -1,6 +1,6 @@
 # Late January Product Update
 
-## ASMPT Virtual Assist Virtual Assist App
+## Knowron Assistant
 
 ### v1.1.8 - Requesting access, giving feedback and squashing bugs
 - **New**: If users don't yet have access to the application, they can simply request access via the log in screen. The corresponding email will be forwarded to the correct person to give them access.
@@ -12,7 +12,7 @@
     - Fixed an issue with starting tutorials from the search screen.
     - You can now use special characters when filtering on the documents screen.
 
-## Virtual Assist Web
+## Control Suite
 
 ### v0.5.0 - New filters on search. Uploading documents in bulk.
 

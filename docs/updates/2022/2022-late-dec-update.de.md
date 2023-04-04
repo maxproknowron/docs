@@ -1,12 +1,12 @@
 # Produkt-Update Ende Dezember
 
-## ASMPT Virtual Assist Virtual Assist App
+## Knowron Assistent
 
 ### v1.1.7 - Tags werden jetzt dynamisch geladen
 
 - **Neu**: Die Filter für Ihre Suchergebnisse sind jetzt dynamisch und nicht mehr fest kodiert. Wenn Ihr Dokument Tags hat, zeigen wir Ihnen diese an. 
 
-## Virtual Assist Web
+## Control Suite
 
 ### v0.4.0 - Datenschutzrichtlinien können geändert werden und Artikelvorlagen
 
@@ -17,7 +17,7 @@
   <figcaption>Datenschutzrichtlinie hochladen</figcaption>
 </figure>
 
-- **Neu**: Redakteure können jetzt eine Artikelvorlage auswählen, bevor sie einen neuen Artikel schreiben. Vorlagen senken die Hürde für die Erstellung strukturierter Informationen für Ihre Kollegen. Sprechen Sie mit ASMPT Virtual Assist, um Vorlagen für Ihre Organisation zu erstellen!
+- **Neu**: Redakteure können jetzt eine Artikelvorlage auswählen, bevor sie einen neuen Artikel schreiben. Vorlagen senken die Hürde für die Erstellung strukturierter Informationen für Ihre Kollegen. Sprechen Sie mit KNOWRON, um Vorlagen für Ihre Organisation zu erstellen!
 
 <figure markdown>
   ![Article templates](https://mcusercontent.com/798b65fe808f1a67db54e6d18/images/f53016ae-4a9e-59df-86c4-55eb015d1b58.gif){ width="100%", align="center" }
