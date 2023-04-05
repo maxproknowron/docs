@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-# <span style="color:#FA6E3F"> Admin Panel </span> 
-=======
-# <span style="color:#FA6A47"> Admin Panel </span> 
->>>>>>> Stashed changes
+# Admin Panel
 
 ### **Privacy Policy**
 If you have been assigned the Admin role, you will have access to certain features that regular users do not. One of these features is the ability to update the Privacy Policy of your organization. To do so, simply navigate to the Admin and from there, you can locate the Privacy Policy section and make any necessary updates.

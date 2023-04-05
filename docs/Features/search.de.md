@@ -1,4 +1,4 @@
-# <span style="color:#FA6A47"> Suche </span> 
+# Suche
 
 Die Suchfunktion ermöglicht es Ihnen, Fragen zu einer gesamten Produktlinie oder einer bestimmten Maschine in allen von Ihnen oder anderen Benutzern erstellten oder hochgeladenen Inhaltseinheiten zu stellen. Diese Inhaltseinheiten sind in Form von Dokumenten, Tutorials und Artikeln verfügbar, sodass wir Ihnen das wertvollste Ergebnis für Ihre Abfrage liefern können.
 

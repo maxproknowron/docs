@@ -1,4 +1,4 @@
-# <span style="color:#FA6A47">Artikel </span> 
+# Artikel
 
 Artikel ermöglichen es Ihnen, als Administrator, Editor oder Nutzer, freie Inhalte zu erstellen. Während Tutorials strukturiert sind und einen spezifischen Zweck haben, können Sie mit Artikeln alles schreiben, von häufig gestellten Fragen bis hin zu Problemlösungen für häufig auftretende Probleme. Artikel können mit jedem anderen Inhalt in der Wissensdatenbank verlinkt werden.
 

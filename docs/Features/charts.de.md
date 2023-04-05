@@ -1,4 +1,4 @@
-## <span style="color:#FA6A47">**Charts** </span>
+# Charts
 
 
 Wir bieten die Funktion "Charts" an, mit der Administratoren einen Überblick über die Nutzung von ASMPT Virtual Assist in verschiedenen Bereichen und durch wie viele Benutzer erhalten. Mit dieser Funktion können Administratoren den erheblichen geschäftlichen Nutzen des Produkts erkennen und dementsprechend fundierte Entscheidungen treffen.

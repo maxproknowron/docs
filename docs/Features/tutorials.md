@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-# <span style="color:#FA6E3F"> Tutorials </span> 
-=======
-# <span style="color:#FA6A47"> Tutorials </span> 
->>>>>>> Stashed changes
+#  Tutorials
 
 **Tutorials** provide an instinctive method of delivering process knowledge regarding a product or product line. They can be used to guide customers through a process or to provide your employees with a step-by-step guide on how to perform a task.
 

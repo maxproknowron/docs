@@ -1,4 +1,4 @@
-# <span style="color:#FA6A47"> Search history </span>
+# Search history
 
 
 Our Search History feature offers valuable insights into your users' behavior and needs by displaying all the questions asked within your organization. By leveraging this information, you can gain a better understanding of your users' pain points and enhance your knowledge base by creating content where it's missing. With this feature, you can continuously improve your product and provide the best possible user experience.

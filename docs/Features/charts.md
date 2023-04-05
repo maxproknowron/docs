@@ -1,4 +1,4 @@
-## <span style="color:#FA6A47">**Charts** </span>
+# Charts
 
 
 We offer the Charts feature, which provides Admin users with an overview of the usage of ASMPT Virtual Assist across different areas and by how many users. This feature allows Admins to see the significant business value of the product and make informed decisions accordingly.

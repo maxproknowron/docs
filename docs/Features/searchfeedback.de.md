@@ -1,9 +1,4 @@
-<<<<<<< Updated upstream
-# <span style="color:#FA6E3F"> Suche Feedback </span> 
-=======
-# <span style="color:#FA6A47"> Suche Feedback </span> 
->>>>>>> Stashed changes
-
+# Suche Feedback
 Wir schätzen Ihre Meinung zur Suche, deshalb haben wir eine Such-Feedback-Funktion. Diese Funktion ermöglicht es Nutzern mit den Rollen Admin und Editor, offene Fragen zu beantworten, die Nutzer zu einer bestimmten Suchanfrage haben. Wenn ein Benutzer ein negatives Feedback zur Qualität der Antworten und der Suchergebnisse abgegeben hat, wird dies in der Tabelle Such-Feedback angezeigt. Wir verwenden diese Informationen, um die Suchergebnisse zu verbessern und sicherzustellen, dass Ihre Zufriedenheit immer gewährleistet ist.
 
 
