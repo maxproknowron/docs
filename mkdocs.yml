@@ -46,19 +46,21 @@ nav:
   - Getting Started:
       - "Native Assistant (Mobile)": "Getting Started/quick-start-guide-assistant.md"
       - "Control Suite (Web)": "Getting Started/quick-start-guide-cs.md"
-      - "Control Suite (Web) Admins" : "Getting Started/quick-start-guide-cs-admins.en.md"
-      - "Control Suite (Web) Editors" : "Getting Started/quick-start-guide-cs-editors.en.md"
   - Features:
-      - "Features/search.md"
-      - "Features/documents.md"
-      - "Features/troubleshooting.md"
-      - "Features/articles.md"
-      - "Features/tutorials.md"
-      - "Features/adminpanel.md"
-      - "Features/searchfeedback.md"
       - "Features/charts.md"
-      - "Features/machineinventory.md"
       - "Features/searchhistory.md"
+      - "Features/troubleshooting.md"
+      - "Features/search.md"
+      - "Features/tutorials.md"
+      - "Features/documents.md"
+      - "Features/articles.md"
+      - "Features/machineinventory.md"
+      - "Features/searchfeedback.md"
+      - "Features/adminpanel.md"
+     
+      
+     
+      
   - Admin:
       - Security and Access:
           - "Admin Documentation/Security and Access/product_access_groups.md"
