@@ -1,4 +1,5 @@
-# Dokumente
+# <span style="color:#FA6A47"> Dokumente </span> 
+
 
 Die hochgeladenen Dokumente stellen einen signifikanten Teil der Wissensbasis für die ausgewählte Produktlinie dar.
 

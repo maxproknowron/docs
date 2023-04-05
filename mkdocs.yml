@@ -56,6 +56,9 @@ nav:
       - "Features/tutorials.md"
       - "Features/adminpanel.md"
       - "Features/searchfeedback.md"
+      - "Features/charts.md"
+      - "Features/machineinventory.md"
+      - "Features/searchhistory.md"
   - Admin:
       - Security and Access:
           - "Admin Documentation/Security and Access/product_access_groups.md"
