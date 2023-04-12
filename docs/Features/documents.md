@@ -1,6 +1,6 @@
 # Documents
 
-Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor, you can upload one single document or an entire file.
+Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor or Admin, you can upload one single document or an entire folder.
 
 ![Documents Diagram](https://i.imgur.com/eJN4itO.png)
 
