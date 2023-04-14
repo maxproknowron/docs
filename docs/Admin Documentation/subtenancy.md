@@ -6,7 +6,7 @@
 **Client:** You are a main tenant if you have a direct commercial relationship with Knowron. This will enable you to resell our white-labeled application with your content to your clients. This is where the concept of subtenant comes to play.
 
 
-**Subtenant:** Your subtenants have access to the content you have added and set as `Public`. Although if your subtenants add their own products or product lines they will have full access to all features, such as **edit** :pencil2: and **delete** :wastebasket:.
+**Subtenant:** Your clients are your subtenants and they have access to the content you have added and set as `Public`. Although if your subtenants add their own products or product lines they will have full access to all features, such as **edit** :pencil2: and **delete** :wastebasket:.
 
 
 <p align="center"><img src="https://i.imgur.com/pRtqlPV.jpg" width="100%"></p>
