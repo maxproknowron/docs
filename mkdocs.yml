@@ -60,7 +60,6 @@ nav:
   - Native Assistant Features:
       - "Features/troubleshooting_na.md"
       - "Features/supportscreen.md"
-      - "Features/documents_na.md"
 
   - Admin:
       - "Admin Documentation/subtenancy.md"
