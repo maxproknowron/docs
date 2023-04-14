@@ -22,3 +22,5 @@ Unsere `Fehler-/Lösungsvorlage` ist darauf ausgelegt, den Prozess der Erstellun
 ### **Bearbeiten oder Löschen**
 
 Im `AKTIONEN` Panel können Sie wählen, ob Sie von Ihnen oder Benutzern in Ihrer Organisation erstellte Artikel bearbeiten :pencil2: oder löschen :wastebasket:.
+
+<p align="center"><img src="https://i.imgur.com/trkKEyG.png" width="100%"></p>

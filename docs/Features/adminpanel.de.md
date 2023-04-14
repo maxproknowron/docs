@@ -4,7 +4,7 @@
 
 Wenn Ihnen die Rolle des Administrators zugewiesen wurde, haben Sie Zugang zu bestimmten Funktionen, die regulären Benutzern nicht zur Verfügung stehen. Eine dieser Funktionen ist die Möglichkeit, die Datenschutzrichtlinien Ihrer Organisation zu aktualisieren. Navigieren Sie dazu einfach zum Verwaltungsbereich und suchen Sie dort den Abschnitt Datenschutzrichtlinien auf, um die erforderlichen Anpassungen vorzunehmen.
 
-![Privacy](https://i.imgur.com/EZyvUYZ.gif)
+![PrivacyPolicy](https://i.imgur.com/EZyvUYZ.gif)
 
 ### **Benutzerverwaltung**
 

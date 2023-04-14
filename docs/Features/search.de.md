@@ -44,7 +44,7 @@ Wenn du beispielsweise nur nach "PLA" suchst, werden nicht dieselben Ergebnisse 
 
 !!! tip "Suche: PLA"
         Die Ergebnisse der Suchanfrage "PLA" sind breiter gefächert, da PLA in mehreren Dokumenten und Artikeln erwähnt wird. Daher wird die Definition von PLA nicht als (extrahierte) Antwort angezeigt.
-
+        <p align="center"><img src="https://i.imgur.com/7x0FpbV.png" width="100%"></p>
 ---
 
 ## Sind die Ergebnisse nicht hilfreich?
