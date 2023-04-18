@@ -1,6 +1,6 @@
 # Artikel
 
-Artikel ermöglichen es Ihnen, als Administrator, Editor oder Nutzer, freie Inhalte zu erstellen. Während Tutorials strukturiert sind und einen spezifischen Zweck haben, können Sie mit Artikeln alles schreiben, von häufig gestellten Fragen bis hin zu Problemlösungen für häufig auftretende Probleme. Artikel können mit jedem anderen Inhalt in der Wissensdatenbank verlinkt werden.
+Artikel ermöglichen es Ihnen,  als Administrator, Editor oder Nutzer, freie Inhalte zu erstellen. Während Tutorials strukturiert sind und einen spezifischen Zweck haben, können Sie mit Artikeln alles schreiben, von häufig gestellten Fragen bis hin zu Problemlösungen für häufig auftretende Probleme. Artikel können mit jedem anderen Inhalt in der Wissensdatenbank verlinkt werden.
 
 ## Was können Sie mit Artikeln machen?
 Als Nutzer mit der Rolle Administrator oder Editor können Sie Artikel **erstellen**, **bearbeiten** oder **löschen**.
