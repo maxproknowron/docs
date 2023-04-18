@@ -17,10 +17,10 @@ Unsere `Fehler-/Lösungsvorlage` ist darauf ausgelegt, den Prozess der Erstellun
 ![ArticleTemplate](https://i.imgur.com/UvmaB2H.gif)
 
 !!! Tipp Sichtbarkeit Ihrer Artikel
-        Die Sichtbarkeit eines neu erstellten Artikels ist standardmäßig privat. Das bedeutet, dass nur Personen aus Ihrer Organisation private Artikel sehen können. Wenn Sie die Sichtbarkeit auf "Öffentlich" ändern, wird der Artikel für jeden Benutzer sichtbar, der Zugriff auf die Produktlinie hat, unter die der Artikel fällt.
+        Die Sichtbarkeit eines neu erstellten Artikels ist standardmäßig privat. Nur Personen aus Ihrer Organisation können private Artikel sehen. Wenn Sie die Sichtbarkeit auf "Öffentlich" ändern, wird der Artikel für jeden Benutzer sichtbar, der Zugriff auf die Produktlinie des Artikels hat.
 
 ### **Bearbeiten oder Löschen**
 
-Im `AKTIONEN` Panel können Sie wählen, ob Sie von Ihnen oder Benutzern in Ihrer Organisation erstellte Artikel bearbeiten :pencil2: oder löschen :wastebasket:.
+Im `AKTIONEN` Panel können Sie Artikel von Ihnen oder Benutzern in Ihrer Organisation bearbeiten :pencil2: oder löschen :wastebasket:.
 
 <p align="center"><img src="https://i.imgur.com/trkKEyG.png" width="100%"></p>
